@@ -1,7 +1,7 @@
 # World Integration Map: The Shard-Scarred Lands 
  
  ## Global Mechanics 
- * **Magic:** No longer "Memory Trading." Magic is now **Arcane Radiation (Name-Bleed)** emitted by the 5 Shards. 
+ * **Magic:** No longer "Memory Trading." Magic is now **Arcane Radiation (The Bleed)** emitted by the 5 Shards. 
  * **The Economy:** Scarcity/Survival. The Virek trade in energy; the Magistrates trade in safety; the Wilds trade in blood. 
  * **The Conflict:** Maer is collecting the 5 Shards to stop the **Great Filter** (Celestial Reset). 
  
@@ -14,7 +14,7 @@
  * **Atmosphere:** White stone, oppressive silence, anti-magic fields. The air tastes like sterilized ozone. 
  * **Lore Update:** 
      * **Cyris:** The seat of High Inquisitor Oren Valis. The Gold Shard is hidden in the Citadel, enforcing the "Law of Silence." 
-     * **Valen:** The controlled buffer zone. Patrols check travelers for "Radiation Sickness" (Name-Bleed). 
+     * **Valen:** The controlled buffer zone. Patrols check travelers for "Radiation Sickness" (The Bleed). 
  
  ### 2. THE RUST SPRAWL (Mind & Industry) 
  * **Regions:** **Virek** (The Foundry), **Kallum** (The Scrapyards). 
@@ -22,8 +22,8 @@
  * **Faction:** **The Virek Engineers** (Eldra Voss). 
  * **Atmosphere:** Smog, neon runes, grinding gears, insomnia. The radiation causes heightened intelligence but paranoia. 
  * **Lore Update:** 
-     * **Virek:** The industrial heart. They are hunting the Azure Shard to power their "God-Engines." 
-     * **Kallum:** The waste processing zone. Scavengers sift through "Arcane Fallout" seeking Shard-dust. 
+     * **Virek:** The industrial heart. They are hunting the Azure Shard to power their **Engines**. 
+     * **Kallum:** The waste processing zone. Scavengers sift through fallout seeking shard-dust. 
  
  ### 3. THE ASHLANDS (Body & War) 
  * **Regions:** **Thalen** (The Volcanic Front), **Alkyr** (The War Camps). 

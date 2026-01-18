@@ -34,7 +34,7 @@ He was a Keeper of Dead Things. It was a title he had given himself, a secret na
 
 ## Scene 2: The Click-Clack of Judgment
 
-The Main Hall of the Grand Athenaeum was a cathedral of silence, its vaulted ceilings disappearing into a gloom that even the Shard-lights couldn't pierce. Maer was at his station, a high-backed mahogany desk scarred by decades of ink-spills, sorting a stack of "Unverified Texts" from the outer rim.
+The Main Hall of the Grand Athenaeum was a cathedral of silence, its vaulted ceilings disappearing into a gloom that even the lights couldn't pierce. Maer was at his station, a high-backed mahogany desk scarred by decades of ink-spills, sorting a stack of "Unverified Texts" from the outer rim.
 
 Before him lay a "Redaction Order," a slip of grey paper signed with the geometric seal of the Magistrate’s Office. Beside it sat a volume bound in sea-foam green leather, its title—*The Rhythms of Kallum*—already marked with the red ink of condemnation. 
 
@@ -44,7 +44,7 @@ Maer opened the book to the flagged page. The prose was handwritten, the ink a d
 
 Maer swallowed, the words tasting like a life he had never known. In Cyris, lanterns were for illumination, and the sea was a regulated resource, partitioned by the Gold Shards. The idea of a silence being *full* was a heresy.
 
-He reached for the "Resonance-Stylus," a heavy, silver tool that felt cold in his hand. He checked the frequency dial; it was set to the specific vibration of the Kallum indigo ink. With a deep breath, he pressed the tip of the stylus to the first word—*The*.
+He reached for the stylus, a heavy, silver tool that felt cold in his hand. He checked the frequency dial; it was set to the specific vibration of the Kallum indigo ink. With a deep breath, he pressed the tip of the stylus to the first word—*The*.
 
 As he dragged the stylus across the page, the tool emitted a high-pitched, crystalline whine. The paper beneath the tip began to shimmer, the ink unbinding from the fibers in a microscopic storm of static. To anyone else, it might have looked like magic; to Maer, it looked like murder.
 
@@ -58,25 +58,25 @@ He closed the book, the sea-foam green leather feeling like a corpse in his hand
 
 It was the sound of glass on obsidian. Maer didn't look up; he didn't need to. He knew the rhythm. 
 
-Senior Archivist Mira Glass did not walk; she measured the world with every step. She appeared from the shadows of the Genealogy section, a woman made of sharp angles and the smell of antiseptic. Her robes were a blinding, bleached white, and she carried a "Glass-Cane"—a transparent rod filled with shimmering gold mercury that pulsed in time with the building's resonance.
+Senior Archivist Mira Glass did not walk; she measured the world with every step. She appeared from the shadows of the Genealogy section, a woman made of sharp angles and the smell of antiseptic. Her robes were a blinding, bleached white, and she carried a cane made of transparent glass—a rod filled with shimmering gold mercury that pulsed in time with the building's resonance.
 
-But it was her arms that drew the eye. Strapped to her forearms were the "Prism-Lenses," a complex array of rotating glass discs and brass gears. As she approached Maer’s desk, the lenses shifted and whirred, making a series of tiny, metallic *clicks*.
+But it was her arms that drew the eye. Strapped to her forearms were her lenses, a complex array of rotating glass discs and brass gears. As she approached Maer’s desk, the lenses shifted and whirred, making a series of tiny, metallic *clicks*.
 
 "Archivist Maer," she said. Her voice was like the snap of dry parchment. She didn't look at him; her eyes were obscured by the shifting reflections in the lenses as they scanned the table.
 
 "Senior Archivist," Maer replied, bowing his head. He kept his hands flat on the desk, making sure his left hand was partially obscured by a stack of ledgers.
 
-Mira Glass leaned over his work, the Prism-Lenses on her left arm rotating rapidly. *Click-click-click.* The lenses weren't for seeing; they were for detecting. They measured the "frequency" of the texts, looking for the tell-tale vibration of unauthorized history.
+Mira Glass leaned over his work, the lenses on her left arm rotating rapidly. *Click-click-click.* The lenses weren't for seeing; they were for detecting. They measured the "frequency" of the texts, looking for the tell-tale vibration of unauthorized history.
 
 "Inefficient," she murmured, the mercury in her cane surging toward the handle. "You are three minutes behind the morning quota. The sorting of the Outer Rim shipment is incomplete."
 
 "The ink is faded on several volumes, Senior Archivist," Maer said, his voice steady despite the hammering of his heart. "I had to use the low-spectrum lamp to verify the titles."
 
-Mira Glass straightened, her Prism-Lenses locking into a new configuration. The smell of antiseptic—sharp and clinical—intensified. "There is no need to verify titles that have already been slated for the purge. High Inquisitor Valis has issued a new directive. All 'Unverified Texts' from the Virek region are to be processed for immediate redaction. We are no longer cataloging the errors of the past; we are erasing them."
+Mira Glass straightened, her lenses locking into a new configuration. The smell of antiseptic—sharp and clinical—intensified. "There is no need to verify titles that have already been slated for the purge. High Inquisitor Valis has issued a new directive. All 'Unverified Texts' from the Virek region are to be processed for immediate redaction. We are no longer cataloging the errors of the past; we are erasing them."
 
 Maer felt a sharp pang of grief, a phantom pain that felt like a needle in his eye. "Erasing them? But the Virek shipment contains the only surviving records of the Old Foundry..."
 
-"The Old Foundry is a source of instability," Mira Glass interrupted, her Glass-Cane striking the floor with a sharp *clack*. "History is a frequency, Maer. If the frequency is inconsistent with the Law of Silence, it must be neutralized. Curiosity is the first stage of Name-Bleed. Do you wish to experience the dizziness, Archivist? Do you wish to feel your own name slipping away like sand through a sieve?"
+"Curiosity is the first stage of the bleed," Mira Glass interrupted, her cane striking the floor with a sharp *clack*. "History is a frequency, Maer. If the frequency is inconsistent with the Law of Silence, it must be neutralized. Do you wish to experience the dizziness, Archivist? Do you wish to feel your own name slipping away like sand through a sieve?"
 
 Maer lowered his gaze. He knew the threat. Name-Bleed was the price of magic, the cognitive erosion that happened when a mortal touched the raw power of the Meridian. The Magistrates used it as a bogeyman, but Maer had felt the edges of it—the sudden, terrifying void where a memory used to be.
 
@@ -102,7 +102,7 @@ First came the **Hall of Consensus**. This was the public face of the library—
 
 As the lift dropped past Floor -10, the light began to fail. He entered the **Vault of Closed Lineages**. Here, the marble gave way to grey limestone, and the air grew heavy with the scent of stagnant dust. This was where the records of the Noble Houses were kept—the families that had been "discontinued" by the Courts. The shelves here were caked in centuries of neglect, the crests on the spines obscured by a grey shroud of spider-silk and rot. It was a dark, silent forest of forgotten bloodlines, where the only sound was the drip of condensation from the overhead pipes.
 
-By Floor -50, the architecture changed entirely. The lift descended into the **Roots**. Here, the hand of man was less evident, the library merging with the ancient, black granite of the mountain itself. The walls were rough and damp, carved with the jagged marks of the first excavators. The brilliant gold of the Shard-lights was replaced by the sickly, flickering violet of low-output bulbs, casting long, distorted shadows that seemed to reach for the lift as it passed. 
+By Floor -50, the architecture changed entirely. The lift descended into the **Roots**. Here, the hand of man was less evident, the library merging with the ancient, black granite of the mountain itself. The walls were rough and damp, carved with the jagged marks of the first excavators. The brilliant gold of the lights was replaced by the sickly, flickering violet of low-output bulbs, casting long, distorted shadows that seemed to reach for the lift as it passed. 
 
 The air turned freezing, carrying the metallic tang of the earth's deep veins. The "hum" of the city—that constant, administrative vibration that Maer felt even in his sleep—faded away, replaced by a silence so heavy it felt like a physical pressure against his chest. 
 
@@ -114,11 +114,11 @@ The lift finally slowed, the gears screaming as they fought against the weight o
 
 Sector 4 was where the Grand Athenaeum stopped being a library and started being a tomb.
 
-The air here was stale, uncirculated, and so thick it felt like wool in the mouth. The walls were rough-hewn granite, weeping saltpetre in the dim light of the flickering, low-output Shard-bulbs. This was the "Dregs," the library’s subconscious, where the "Industrial Dross" of the world was sent to be forgotten.
+The air here was stale, uncirculated, and so thick it felt like wool in the mouth. The walls were rough-hewn granite, weeping saltpetre in the dim light of the flickering, low-output bulbs. This was the "Dregs," the library’s subconscious, where the "Industrial Dross" of the world was sent to be forgotten.
 
 Maer stepped out of the lift, his boots echoing on the uneven floor. The shipment from the Rust Sprawl—the industrial wasteland of the Virek region—sat in the center of the sorting bay. Ten massive crates of splintered wood, bound in rusted iron hoops and caked in a fine layer of grey, metallic ash.
 
-He pulled on a pair of heavy, lead-lined gloves. In the Dregs, you didn't touch anything with bare skin. The materials recovered from the Sprawl often carried residual resonance, a "static" that could cause Name-Bleed in a matter of seconds.
+He pulled on a pair of heavy, lead-lined gloves. In the Dregs, you didn't touch anything with bare skin. The materials recovered from the Sprawl often carried residual resonance, a "static" that could cause the bleed in a matter of seconds.
 
 He began the work. It was a rhythmic, soul-crushing process. He broke open the first crate with a crowbar, the sound echoing through the dark stacks like a gunshot. Inside was a jumble of twisted metal, charred parchment, and water-damaged tax ledgers. 
 
@@ -132,9 +132,9 @@ The second crate was a graveyard of utility. Maer pried the lid back, the wood s
 
 The Magistrates called this "Industrial Dross," a category designed to strip the items of their history before they were even cataloged. To Mira Glass, these were just data-points of failure, the debris of a region that had failed to maintain the required resonance-purity. But as Maer reached into the crate, his fingers brushed against something that didn't feel like dross.
 
-He pulled out a small, heavy object. It was a child’s lung-filter, a common piece of improvised survival gear from the Virek region. It was a crude thing, fashioned from scrap brass and soldered with lead that had begun to turn a sickly, chalky white. 
+He pulled out a small, heavy object. It was a child’s filter, a common piece of improvised survival gear from the Virek region. It was a crude thing, fashioned from scrap brass and soldered with lead that had begun to turn a sickly, chalky white. 
 
-Maer held it up to the dim light of the flickering Shard-bulb. The filter was small enough to fit in the palm of his hand, its surface covered in a web of deep, jagged scratches. One side was crushed, the delicate brass mesh beneath the casing torn open like a wound. 
+Maer held it up to the dim light of the flickering bulb. The filter was small enough to fit in the palm of his hand, its surface covered in a web of deep, jagged scratches. One side was crushed, the delicate brass mesh beneath the casing torn open like a wound. 
 
 He pulled a small, stiff brush from his belt—a tool meant for cleaning ancient vellum—and began to work on the filter. He brushed away the thick crust of coal-dust and ash, revealing the dull, tarnished gold of the brass. Beneath the grit, he found a stain that the dust hadn't been able to hide. A dark, brownish residue that had seeped into the metal’s pores.
 
@@ -144,9 +144,9 @@ The smell hit him then—a metallic, copper tang that sliced through the library
 
 He found himself cleaning it with a reverence that would have earned him a month in the Silence if Mira Glass had seen him. He polished the brass until he could see the distorted reflection of his own ink-stained face in the metal. 
 
-On the underside of the filter, he found a series of tiny, hand-carved marks. They weren't letters, but a sequence of notches—a tally of days, or perhaps a child’s attempt at a name. In Cyris, names were sacred things, regulated by the Codex Courts and protected by the Meridian Lattice. In the Rust Sprawl, a name was something you scratched into a piece of scrap brass so you wouldn't forget who you were when the Name-Bleed started.
+On the underside of the filter, he found a series of tiny, hand-carved marks. They weren't letters, but a sequence of notches—a tally of days, or perhaps a child’s attempt at a name. In Cyris, names were sacred things, regulated by the Codex Courts and protected by the Meridian Lattice. In the Rust Sprawl, a name was something you scratched into a piece of scrap brass so you wouldn't forget who you were when the sickness started.
 
-Maer looked up at the weeping granite walls of the sub-basement. Above him, the city of Cyris sat in its bone-white splendor, bathed in the artificial sunlight of the Gold Shards. The citizens of the Golden Sector didn't need lung-filters. Their air was scrubbed of every impurity, every memory, every trace of the world that had existed before the Fracture. They lived in a world of perfect, sterile silence, while down here, the debris of their "purity" was piled in crates like trash.
+Maer looked up at the weeping granite walls of the sub-basement. Above him, the city of Cyris sat in its bone-white splendor, bathed in the artificial sunlight of the Gold Shards. The citizens of the Golden Sector didn't need filters. Their air was scrubbed of every impurity, every memory, every trace of the world that had existed before the Fracture. They lived in a world of perfect, sterile silence, while down here, the debris of their "purity" was piled in crates like trash.
 
 "You were someone," Maer whispered to the filter. "You breathed through this. You fought for your name."
 
@@ -160,8 +160,7 @@ The silence of Sector 4 felt different now. It was no longer just the absence of
 
 He reached into the fourth crate, his hand disappearing into a nest of shredded vellum and dried mud. He felt the familiar weight of a book, but as his fingers closed around the binding, a sudden, sharp jolt of electricity shot up his arm.
 
-
-He pulled his hand back, a gasp escaping his lips. His head swam for a second—a brief, nauseating wave of Name-Bleed that made the room tilt. He blinked, waiting for the dizziness to pass.
+He pulled his hand back, a gasp escaping his lips. His head swam for a second—a brief, nauseating wave of the sickness that made the room tilt. He blinked, waiting for the dizziness to pass.
 
 He reached in again, more cautiously this time. 
 
@@ -187,8 +186,6 @@ The heat hit him before he could even process the thought.
 
 It wasn't the warmth of a room or the glow of a lamp. It was a searing, prismatic heat that bypassed his lead-lined gloves and sank directly into the marrow of his bones. Maer gasped, nearly dropping the volume, but his fingers seemed to lock around the binding of their own accord.
 
-### The Anatomy of Resonance
-
 Time did not stop, but it became viscous, a thick, amber fluid that Maer was forced to swim through. The flicker of the Shard-bulb above his head slowed until he could see the individual pulses of light, each one a jagged, electric scream in the dark. The sound of his own breath became a low, thunderous roar, and the drip of saltpetre from the granite walls sounded like the tolling of a funeral bell.
 
 The heat was the first thing to truly break him. 
@@ -199,7 +196,7 @@ The heat reached his elbow, and the silver scars on his knuckles didn't just glo
 
 "Stop," he tried to say, but his tongue was a heavy, useless thing in his mouth.
 
-Then the first wave of Name-Bleed hit. It wasn't the dizziness he had felt before; it was a violent, surgical removal. 
+Then the first wave of the bleed hit. It wasn't the dizziness he had felt before; it was a violent, surgical removal. 
 
 Maer reached for his mother’s face. It was his anchor, the one image he had kept protected in the deepest vaults of his mind. He tried to think of the way she looked when she sang the lullaby, the way the light caught the fine, silver-blonde hairs at her temples. 
 

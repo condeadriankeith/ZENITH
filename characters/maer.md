@@ -12,13 +12,13 @@
 - **Protagonist Goal:** To collect all five Shards, climb the Zenith, and shatter the system of the Celestials to save the world below.
 - **Antagonist:** Val-Kora (The Celestial), who enforces the Great Filter.
 
-## The Burden: Name-Bleed & Shard Effects
+## The Burden: The Bleed & Shard Effects
 
 As the Vault-Keeper, Maer's body and mind are the containment vessels for the Shards. Each Shard grants immense power but exacts a devastating toll.
 
 - **Azure Shard (Mind):** 
   - *Power:* Spike in intelligence, ability to see patterns and predict movements.
-  - *Cost:* Loss of sleep. "Name-Bleed" erases small, common nouns from his memory.
+  - *Cost:* Loss of sleep. The "Bleed" erases small, common nouns from his memory.
 - **Veridian Shard (Life):**
   - *Power:* Rapid healing, control over organic growth.
   - *Cost:* Veins turn green. Loss of the memory of pain, leading to reckless behavior.

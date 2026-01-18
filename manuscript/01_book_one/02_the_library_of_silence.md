@@ -17,7 +17,7 @@ He took a breath, the air here already tasting of the Golden Sector’s syntheti
 
 The gate opened onto the pristine marble of the Level 1 corridor. Maer stepped out, and the change in atmosphere was like a physical blow. In the Dregs, the silence was heavy and damp, a blanket of forgotten things. Here, the silence was a weapon. It was sharp, polished, and meticulously enforced. The "Silence" of the Golden Sector wasn't the absence of sound; it was the suppression of it. 
 
-Every surface—from the bone-white floors to the gold-leafed arches—seemed to be listening. The air itself felt tight, wound like a spring. Above, the Gold Shard luminaries cast a steady, shadowless light that stripped the world of its secrets, leaving only the curated perfection of the present. 
+Every surface—from the bone-white floors to the gold-leafed arches—seemed to be listening. The air itself felt tight, wound like a spring. Above, the luminaries cast a steady, shadowless light that stripped the world of its secrets, leaving only the curated perfection of the present. 
 
 The silence here was not merely the absence of noise; it was an active, predatory force. It was the sound of a thousand quills scratching against vellum, a rhythmic, abrasive sound that felt like sandpaper on his raw nerves. It was the hum of the climate-control systems, a low-frequency drone that vibrated in his teeth. It was the pressurized quiet of a tomb that refused to admit it was full of corpses. Every time a scribe turned a page, the sound was like a gunshot; every time a sandal scuffed the marble, it was an accusation. Maer felt as if the silence was a physical weight, pressing against his eardrums, demanding that he confess the heat burning against his ribs.
 
@@ -33,7 +33,7 @@ Maer froze, his pulse spiking. He turned slowly, keeping his face a mask of admi
 
 "Harlen," Maer replied, his voice a dry rasp that sounded too loud in the pressurized quiet. 
 
-"You’re late for the evening mess," Harlen said, his eyes flicking down to Maer’s hands. "And you look... flushed. The sub-basement air is poorly filtered this time of year. Perhaps you should visit the Apothecary for a resonance-check."
+"You’re late for the evening mess," Harlen said, his eyes flicking down to Maer’s hands. "And you look... flushed. The sub-basement air is poorly filtered this time of year. Perhaps you should visit the Apothecary for a check."
 
 "It is nothing," Maer said, forcing a thin smile. "The crates from the Sprawl were particularly dusty. I merely need a meal and a rest."
 
@@ -41,19 +41,58 @@ Harlen nodded, but his gaze lingered a second too long on Maer’s chest. "Of co
 
 The mention of Valis sent a cold shiver through Maer, clashing violently with the heat of the book. He nodded curtly and continued down the hall. 
 
-The physical toll of the book was intensifying. The heat was no longer just a sensation; it was a demand. He could feel the Shard-Resonance beginning to bleed into his own frequency. The silver scars on his knuckles were pulsing, a dull, rhythmic light that he had to keep hidden within his sleeves. 
+The physical toll of the book was intensifying. The heat was no longer just a sensation; it was a demand. He could feel the resonance beginning to bleed into his own frequency. The silver scars on his knuckles were pulsing, a dull, rhythmic light that he had to keep hidden within his sleeves. 
 
-The Golden Sector felt like a masquerade where he was the only one whose mask was slipping. The hum of the Gold Shards in the ceiling—a constant, 60-hertz administrative drone—sounded like a choir of accusing voices. Every flicker of the lights, every rustle of a robe, every distant *clack* of a Glass-Cane was a potential exposure. 
+The Golden Sector felt like a masquerade where he was the only one whose mask was slipping. The hum of the lights in the ceiling—a constant, 60-hertz administrative drone—sounded like a choir of accusing voices. Every flicker of the lights, every rustle of a robe, every distant *clack* of a cane was a potential exposure. 
 
 He passed the Great Archive’s central atrium, a space so vast the ceiling was lost in a golden haze. Thousands of books, all "Verified" and "Neutralized," sat in their perfect rows, their spines aligned with a precision that made Maer want to scream. They were dead things, hollowed out by the Magistrates until only the shells of words remained. 
 
 Against his ribs, the Codex of the First Breath felt like the only living thing in the entire building. It was a heart, beating with a frequency that was older than Cyris, older than the Fracture. It was a radioactive secret, a bomb of pure history, and he was carrying it through the heart of the world’s most surveillance-heavy structure.
 
-He reached the doors to the Archivists' Mess Hall. He had to enter. To skip a meal was to break the routine, and in the Grand Athenaeum, routine was the only thing that kept the Inquisitors at bay. He stood before the heavy, bronze doors, took one last, shuddering breath, and pushed them open.
+He turned the corner into the Hall of Echoes, and the world narrowed to the sound of his own blood.
+
+The Hall was a transition corridor, a three-hundred-foot stretch of obsidian-polished stone that connected the Great Archive to the Mess Hall. It was an architectural trap, designed with a parabolic curve that focused every vibration toward the center of the ceiling. In Cyris, they called it the "Confessional." A pin drop at one end sounded like a gong at the other; the rustle of a page was a roar. 
+
+Maer stopped at the threshold, his breath hitching. At the far end of the hall, nearly two hundred feet away, a Magistrate stood with his back to him. The man was dressed in the deep crimson of the Auditory Watch, and in his hand, he held a fork—a three-pronged silver tool that hummed with a low, constant vibration. He was tuning it, his head tilted as he listened to the infinitesimal shifts in the building’s resonance.
+
+The Codex was heavy. It was a dense, shifting weight that seemed to grow more solid with every passing second. If it bumped against his hip bone, or if the satchel strap groaned against the wool of his robes, the sound would be amplified a thousand times. The Magistrate would hear not just the noise, but the *frequency*—the ancient, jagged rhythm of the First Breath.
+
+Maer looked up at the ceiling. The air cyclers—massive, hidden fans that scrubbed the Golden Sector’s air—emitted a rhythmic, low-frequency thrum. *Whir-thump. Whir-thump.* It was the only cover he had.
+
+He waited. He counted the beats. 
+
+*Whir-thump.* Step.
+*Whir-thump.* Step.
+
+He moved with an agonizing slowness, his muscles screaming from the tension. The Hall of Echoes felt miles long, the obsidian floor a black mirror that reflected the sweat beading on his forehead. Every time his boot touched the stone, he felt the vibration travel up his leg, a tiny ripple of sound that felt like a scream in the pressurized quiet.
+
+He was halfway through when the Codex shifted.
+
+It wasn't a large movement—just a slight settling of the book against his ribs—but in the acoustic perfection of the hall, the sound of the leather binding rubbing against his silk tunic was like a thunderclap. 
+
+*Skrrrit.*
+
+The Magistrate froze. The fork in his hand flared with a sudden, sharp violet light. He began to turn, his head cocking like a bird’s.
+
+Maer stopped. He didn't just stop; he ceased to be. He locked his joints, held his breath, and forced his mind into the same void he had used with Mira Glass. He visualized the stone walls. He became the obsidian floor. He willed his heart to skip a beat, to slow down until the pulse in his ears was no longer a rhythm but a suggestion.
+
+The Magistrate raised the fork. The silver prongs vibrated, searching the air for the source of the anomaly. Maer watched, a single bead of sweat tracing a slow, burning path down his temple. It reached his jaw, hung there for an eternity, and then fell.
+
+In the Hall of Echoes, the drop of sweat hitting the floor should have been a bell-toll. 
+
+*Whir-thump.*
+
+The air cycler kicked into a higher cycle at the exact moment the droplet landed. The sound was swallowed by the mechanical roar. 
+
+The Magistrate waited a second longer, the fork’s light fading back to a dull silver. He huffed—a sound that echoed like a gale-force wind—and returned to his tuning.
+
+Maer didn't move until the Magistrate’s back was fully turned. He finished the rest of the hall in a blur of timed steps and silent prayers, his robes damp with cold sweat. By the time he reached the heavy, bronze doors of the Mess Hall, his legs were shaking so violently he had to lean against the wall to keep from collapsing.
+
+He stood before the doors, took one last, shuddering breath, and pushed them open.
 
 ## Scene 2: The Bread of Quiet
 
-The Mess Hall was a cavernous space of dark oak and dim, amber Shard-light. It was designed to be humble, a reminder that the Archivists were servants of the state, but the silence here was even more oppressive than in the hallways. It was the silence of consumption—the rhythmic clink of silver spoons against ceramic bowls, the soft tear of bread, the measured swallows of water.
+The Mess Hall was a cavernous space of dark oak and dim, amber light. It was designed to be humble, a reminder that the Archivists were servants of the state, but the silence here was even more oppressive than in the hallways. It was the silence of consumption—the rhythmic clink of silver spoons against ceramic bowls, the soft tear of bread, the measured swallows of water.
 
 Maer joined the queue, his movements mechanical. His hands were shaking, a fine, high-frequency tremor that made the ceramic tray rattle. He gripped the edges until his knuckles turned white, the silver scars burning against the plastic. 
 
@@ -71,9 +110,9 @@ Maer froze, his spoon halfway to his mouth.
 
 "They say they found a pocket of 'Residuals' in the Old Foundry," the second junior added, his voice trembling. "People who were still using the Old Names. They didn't just redact the books, Joren. They redacted the people. A total memory-scrub of the entire district."
 
-"The Law of Silence is for our protection," the third junior said, though his voice lacked conviction. "The Name-Bleed from those old frequencies... it would have spread. The Magistrates had no choice."
+"The Law of Silence is for our protection," the third junior said, though his voice lacked conviction. "The bleed from those old frequencies... it would have spread. The Magistrates had no choice."
 
-Maer felt a sudden, violent surge of anger. He thought of the child’s lung-filter in the sub-basement. He thought of the blood-stains and the hand-carved notches. Those weren't "frequencies"; they were lives. 
+Maer felt a sudden, violent surge of anger. He thought of the child’s filter in the sub-basement. He thought of the blood-stains and the hand-carved notches. Those weren't "frequencies"; they were lives. 
 
 He forced himself to take a spoonful of the soup. 
 
@@ -99,7 +138,7 @@ He realized with a sudden, terrifying clarity that he was already becoming diffe
 
 The junior scribes went back to their hushed conversation, but Maer couldn't hear them anymore. The sound of their voices was being drowned out by a low-frequency hum that seemed to be emanating from the very marrow of his bones. 
 
-He looked around the Mess Hall. The dark oak, the amber light, the measured movements of the Archivists—it all looked like a painting that was beginning to peel. He could see the "static" at the edges of his vision, the faint shimmer of resonance that the Magistrates called Name-Bleed but the Codex called the "First Breath."
+He looked around the Mess Hall. The dark oak, the amber light, the measured movements of the Archivists—it all looked like a painting that was beginning to peel. He could see the "static" at the edges of his vision, the faint shimmer of resonance that the Magistrates called the bleed but the Codex called the "First Breath."
 
 He had to get out. The heat was becoming unbearable. He felt like his skin was starting to smoke, like the very air around him was beginning to ionize. 
 
@@ -111,7 +150,7 @@ He was halfway to the door when the silence of the Mess Hall was broken by a sou
 
 *Click. Clack. Click. Clack.*
 
-Senior Archivist Mira Glass was standing in the doorway, her white robes glowing like a funeral shroud in the amber light. Her Glass-Cane struck the floor with a rhythmic, administrative finality, and the Prism-Lenses on her arms began to spin. 
+Senior Archivist Mira Glass was standing in the doorway, her white robes glowing like a funeral shroud in the amber light. Her cane struck the floor with a rhythmic, administrative finality, and the lenses on her arms began to spin. 
 
 *Click-click-click.*
 
@@ -123,13 +162,13 @@ Maer stopped. He stood in the center of the Mess Hall, the heat of the Codex a r
 
 The air in the Mess Hall curdled. The rhythmic clinking of spoons died a sudden, clinical death, replaced by a silence so absolute it felt like the room had been vacuum-sealed. Maer stood paralyzed, the heat of the Codex pulsing against his ribs like a trapped star. 
 
-Mira Glass didn't move from the threshold. She stood silhouetted against the bright gold of the corridor, a sharp-angled specter in bleached silk. Her Prism-Lenses—the brass-and-glass arrays strapped to her forearms—were a blur of motion. They whirred and clicked, shifting through spectral filters that Maer knew were scanning for more than just visual anomalies. They were looking for heat. They were looking for resonance. They were looking for the tremor in his soul.
+Mira Glass didn't move from the threshold. She stood silhouetted against the bright gold of the corridor, a sharp-angled specter in bleached silk. Her lenses—the brass-and-glass arrays strapped to her forearms—were a blur of motion. They whirred and clicked, shifting through spectral filters that Maer knew were scanning for more than just visual anomalies. They were looking for heat. They were looking for resonance. They were looking for the tremor in his soul.
 
 "Senior Archivist," Maer said. He forced his voice to remain flat, draining it of the panic that was clawing at his throat. He bowed, a slow, measured movement that cost him every ounce of his willpower.
 
-"You left your station early, Maer," she said, her voice a dry snap. She began to walk toward him, the mercury in her Glass-Cane surging with every step. *Click. Clack.* "And now you leave the evening mess before the Dismissal Bell. Such... irregularities. They suggest a lack of focus. Or perhaps, a shift in frequency."
+"You left your station early, Maer," she said, her voice a dry snap. She began to walk toward him, the mercury in her cane surging with every step. *Click. Clack.* "And now you leave the evening mess before the Dismissal Bell. Such... irregularities. They suggest a lack of focus. Or perhaps, a shift in frequency."
 
-She stopped three feet from him. The smell of her hit him first—antiseptic, sharp, and cold. It was the scent of a world that had been scrubbed of its humanity. Up close, the Prism-Lenses were terrifying. The rotating glass discs caught the amber light, refracting it into jagged needles of color that danced across Maer’s face.
+She stopped three feet from him. The smell of her hit him first—antiseptic, sharp, and cold. It was the scent of a world that had been scrubbed of its humanity. Up close, the lenses were terrifying. The rotating glass discs caught the amber light, refracting it into jagged needles of color that danced across Maer’s face.
 
 "A Random Calibration Check," she murmured, more to herself than to him. "The sub-basement exposure is high today. We must ensure the purity of our instruments."
 
@@ -149,9 +188,9 @@ He visualized the words. He felt the weight of the ledgers. He imagined the grey
 
 His heart rate slowed. The frantic pulse in his ears faded to a dull, administrative thrum. 
 
-The whine of the Prism-Lenses changed pitch, dropping back into a steady, rhythmic hum. Mira Glass tilted her head, her obscured eyes fixed on the display within her lenses.
+The whine of the lenses changed pitch, dropping back into a steady, rhythmic hum. Mira Glass tilted her head, her obscured eyes fixed on the display within her lenses.
 
-"Thermal levels are... elevated," she said, her voice trailing off. "Your core temperature is fluctuating, Maer. The resonance-sensors are picking up a jagged signature."
+"Thermal levels are... elevated," she said, her voice trailing off. "Your core temperature is fluctuating, Maer. The sensors are picking up a jagged signature."
 
 "The sub-basement," Maer whispered, his voice steady. "The crates from Virek. They were caked in metallic ash. My robes... they must have absorbed the residue."
 
@@ -171,7 +210,7 @@ Finally, she lowered her arm. The violet light died. The lenses slowed their rot
 
 He stopped, his hand already on the door.
 
-"The Silence is a gift," she said, her Glass-Cane striking the floor with a final *clack*. "It protects us from the noise of the past. Do not go looking for the music in the static. It will only make you deaf."
+"The Silence is a gift," she said, her cane striking the floor with a final *clack*. "It protects us from the noise of the past. Do not go looking for the music in the static. It will only make you deaf."
 
 She turned and walked toward the Senior Table, her white robes fluttering like the wings of a predatory bird.
 
@@ -193,11 +232,11 @@ He slammed the door and threw the heavy, iron bolt. The sound was a thunderclap 
 
 He reached into his robes and pulled out the Codex.
 
-The moment the book left his body, the room seemed to shift. The dim light of the single Shard-bulb flickered, the violet-tinged glow deepening into a rich, midnight blue. The air grew cold, the smell of vanilla-rot and dust replaced by a sharp, electric scent of ozone and something else—something that smelled like rain on hot stone.
+The moment the book left his body, the room seemed to shift. The dim light of the single bulb flickered, the violet-tinged glow deepening into a rich, midnight blue. The air grew cold, the smell of vanilla-rot and dust replaced by a sharp, electric scent of ozone and something else—something that smelled like rain on hot stone.
 
 Maer placed the book on his narrow desk. It didn't sit like a normal book; it seemed to settle into the wood, its weight feeling far greater than its size would suggest. 
 
-The midnight-blue binding was no longer dark. It was alive. The golden filigree he had seen in the sub-basement was pulsing now, a network of illuminated veins that moved and shifted across the leather. It wasn't ink; it was Light-Weave.
+The midnight-blue binding was no longer dark. It was alive. The golden filigree he had seen in the sub-basement was pulsing now, a network of illuminated veins that moved and shifted across the leather. It wasn't ink; it was a network of luminescent threads.
 
 "Open," Maer whispered.
 
@@ -211,7 +250,7 @@ He couldn't read them with his eyes, but he felt them in his mind.
 
 He understood. The Codex was a "Lock," and the key was not a physical object. It was a frequency. And to match that frequency, he had to give up a piece of himself. He had to offer a memory to the silence.
 
-Maer sat on his narrow cot, his hands trembling. He knew the cost of Name-Bleed. He had seen Archivists who had lost too much—men who wandered the halls with empty eyes, unable to remember their own names or the faces of their children. To give a memory to the book was to lose it forever.
+Maer sat on his narrow cot, his hands trembling. He knew the cost of the bleed. He had seen Archivists who had lost too much—men who wandered the halls with empty eyes, unable to remember their own names or the faces of their children. To give a memory to the book was to lose it forever.
 
 He closed his eyes and searched his mind. He needed something significant, something with enough emotional weight to satisfy the book’s hunger.
 
@@ -243,11 +282,11 @@ The Codex responded. The golden veins on the cover flared with a brilliant, pris
 
 The cover swung open.
 
-Maer leaned over the desk, his eyes wide. The pages weren't paper; they were sheets of translucent, shimmering Light-Weave. The text didn't sit on the surface; it floated within the pages, a three-dimensional lattice of shifting symbols and glowing lines.
+Maer leaned over the desk, his eyes wide. The pages weren't paper; they were sheets of translucent, shimmering threads. The text didn't sit on the surface; it floated within the pages, a three-dimensional lattice of shifting symbols and glowing lines.
 
 It was a map.
 
-But it wasn't a map of Cyris. It was a map of the world beneath the world. He saw the Grand Athenaeum, not as a building, but as a series of interconnected resonance-chambers. He saw the "Roots" descending into the dark, and then, further down, a network of tunnels that the Magistrates had never cataloged.
+But it wasn't a map of Cyris. It was a map of the world beneath the world. He saw the Grand Athenaeum, not as a building, but as a series of interconnected chambers. He saw the "Roots" descending into the dark, and then, further down, a network of tunnels that the Magistrates had never cataloged.
 
 The map pulsed, a single line of violet light tracing a path from his quarters, through the internal systems of the library, and down toward a dark, jagged area marked with a single, ancient symbol.
 
@@ -289,9 +328,65 @@ The duct was even tighter than the disposal shaft, a lightless tube of cold gran
 
 He moved for what felt like hours. Time lost its meaning in the dark. He was no longer Archivist Maer; he was a creature of the cracks, a shadow moving through the foundation of a world that didn't know he existed.
 
+He was not alone.
+
+The first sign was the sound—a dry, frantic chittering that seemed to come from the stone itself. It was the sound of a thousand tiny mandibles clicking against granite, a sound that Maer recognized from the deep archives. 
+
+*Mites.*
+
+They were the scavengers of the Grand Athenaeum, pale, multi-legged pests the size of a man’s thumb. They fed on the residual resonance of paper and vellum, drawn to the frequencies of old words like moths to a flame. In the upper levels, they were merely a nuisance, kept in check by the clinical purity of the lights. But here, in the damp dark of the maintenance ducts, they were a swarm.
+
+And they had smelled the "First Breath."
+
+To the mites, the Codex in Maer’s satchel didn't just smell like a book; it smelled like a feast. It was a concentrated sun of ancient resonance, a frequency so rich it was driving them into a predatory frenzy.
+
+Maer felt the first one crawl over his boot. Then another on his calf. He tried to shake them off, but the duct was too tight. He was pinned on his stomach, his shoulders wedged against the cold stone, his movements limited to a desperate, forward crawl.
+
+"Away," he hissed, his voice a dry rasp in the dark.
+
+The chittering intensified. Suddenly, the shadows ahead of him seemed to move. In the faint, violet glow of the Codex, he saw them—a carpet of pale, translucent bodies, their many legs scuttling with a terrifying, rhythmic precision. Their eyes were tiny, multifaceted beads of black glass that reflected the book’s light.
+
+He couldn't use magic. A single flare of resonance would trigger the auditory sensors in the disposal shafts above, bringing the Auditory Watch down on him in seconds. He had to kill them quietly. He had to kill them by hand.
+
+He reached for the bone-handled knife at his belt. The movement was a struggle, his elbow striking the granite with a dull *thud* that sent a spike of pain through his arm. He unsheathed the blade, the cold steel feeling like a heavy, useless thing in his cramped hand.
+
+The swarm hit him.
+
+They poured over his shoulders and back, their tiny claws hooking into the wool of his robes. He felt them scuttling toward his satchel, their mandibles clicking in anticipation. Maer lashed out with the knife, a blind, desperate strike that crunched through several of the translucent bodies. A cloying, sweet scent filled the duct—the smell of fermented ink and old parchment.
+
+He stabbed and slashed in the dark, his breath coming in ragged, shallow gasps. The mites were everywhere. They crawled over his face, their cold, many-legged bodies a nightmare against his skin. He squeezed his eyes shut, feeling the weight of the swarm pressing him down into the stone.
+
+One of the mites found a gap in his sleeve. 
+
+It bit him on the back of his right hand, its mandibles sinking deep into the muscle. Maer’s entire arm went white with pain—a sharp, electric sting that felt like it was traveling directly to his heart. He opened his mouth to scream, but he forced the sound back, turning it into a low, gutteral groan that died in the back of his throat.
+
+He dropped the knife.
+
+The swarm surged over his hand, drawn to the scent of his blood—blood that was now saturated with the Codex’s resonance. 
+
+"No," Maer whimpered.
+
+He reached for the Codex through the leather of his satchel. He didn't open it; he simply touched the binding, calling out to the book in the silence of his mind. *Help me.*
+
+The Codex responded. It didn't flare with light, but it emitted a sudden, high-frequency pulse—a vibration so sharp it was beyond the range of human hearing. 
+
+The mites froze. 
+
+The pulse traveled through Maer’s body and into the swarm. For a second, the chittering stopped. Then, the mites began to scramble away, their tiny bodies vibrating so violently they seemed to be tearing themselves apart. They fell from his robes in a frantic, pale rain, scuttling back into the cracks of the stone.
+
+Maer lay in the dark, his chest heaving, his right hand throbbing with a dull, rhythmic heat. The swarm was gone, but the silence that replaced it was heavy with the scent of crushed ink and his own sweat.
+
+He was exhausted. His muscles were locked in a permanent cramp, and the bite on his hand was already beginning to swell, the skin turning a sickly, iridescent violet. He felt the sickness clawing at the edges of his mind, the Codex’s resonance demanding more of him than he had left to give.
+
+He forced his fingers to find the knife in the dark. He sheathed it with a hand that wouldn't stop shaking. 
+
+He couldn't stay here. The mites would return, or the Auditory Watch would find the residue of the pulse. He had to move.
+
+He began to crawl again, dragging his heavy, aching body toward the end of the duct. Every movement was a battle against the stone, every breath a struggle against the sulfur-choked air. He was a man being ground down by the world, a shadow trying to find the light.
+
 Then, the vibration changed.
 
-The low hum of the disposal system was replaced by a thunderous, rhythmic roar. It was the sound of the Virek furnaces—the massive, Shard-powered hearts of the industrial zone that processed the library’s waste. The air turned scorching, the smell of sulfur becoming so intense it made his eyes water.
+The low hum of the disposal system was replaced by a thunderous, rhythmic roar. It was the sound of the furnaces—the massive hearts, powered by shards, that processed the library’s waste. The air turned scorching, the smell of sulfur becoming so intense it made his eyes water.
 
 He reached the end of the duct. 
 
@@ -299,7 +394,7 @@ It opened onto a narrow ledge overlooking the primary Pulping Chute. Below him, 
 
 It looked like a waterfall of grey ash. 
 
-Maer stood on the ledge, his robes whipping in the violent updraft of heat and ozone. He looked down into the void. This was the moment. The bypass led to a series of secondary vents that would deposit him in the outer rim of the industrial zone, far from the primary incinerators. But to reach them, he had to jump.
+Maer stood on the ledge, his robes whipping in the violent updraft of heat and ozone. He looked down into the void. This was the moment. The bypass led to a series of secondary vents that would deposit him in the outer rim of the industrial zone, far from the primary incinerators. But to reach them, he had to leap.
 
 He had to trust the map. He had to trust the book that had already taken his past.
 
@@ -319,7 +414,7 @@ The air here was thick and yellow, smelling of sulfur and scorched copper. The c
 
 Maer stood up, his legs trembling, his robes charred and caked in ash. He walked toward the end of the vent, where a faint, orange light was beginning to bleed through the gloom.
 
-He stepped out onto a rusted catwalk overlooking the Virek industrial zone.
+He stepped out onto a rusted catwalk overlooking the industrial zone.
 
 The sky was a bruised, heavy purple, choked with the smoke of a thousand foundries. Below him, the Rust Sprawl stretched out in a jagged landscape of twisted iron, glowing slag-heaps, and the flickering lights of the labor-camps. It was a world of noise, of heat, and of violent, unregulated life.
 
