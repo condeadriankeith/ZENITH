@@ -17,7 +17,7 @@ Produce only `.md` files (no PNG, PDF, DOCX, XLSX, CSV, or other binary outputs)
 
 ### 2. Canon Enforcement
 The following items are canonical and must appear **verbatim** where indicated and consistently across documents:
-- **Meridian Quarantine** (primary antagonist) and Meridian Lock mechanics  
+- **The Great Filter** (primary antagonist) and Meridian Lock mechanics  
 - **The Fracture (907 R)** as the canonical origin of the Vanishing (include canonical paragraph)  
 - **Ascension — the three immutable laws** (include exact plaque text)  
 - **Name-Bleed** sensory Ruination paragraph (use exact text at least once)  
@@ -92,7 +92,7 @@ The following items are canonical and must appear **verbatim** where indicated a
 - `traveler_route.md`: step-by-step textual travel route with chapter ties and node references.
 
 ### Codex of Realms (`codex_of_realms.md`, `codex_epigraphs.md`)
-- `codex_of_realms.md`: canonical cosmology, Architects, Meridian Quarantine, The Fracture (include canonical paragraph), Ascension Laws (verbatim plaque), ritual lexicon, governance rules.
+- `codex_of_realms.md`: canonical cosmology, Architects, The Great Filter, The Fracture (include canonical paragraph), Ascension Laws (verbatim plaque), ritual lexicon, governance rules.
 - `codex_epigraphs.md`: 40 short epigraphs (one-liners, tavern rhymes, ledger scraps) formatted as bullet list, usable as chapter openers.
 
 ### Systems & Mechanics (`systems_arcana.md`, `ascension_laws_plaque.md`)

@@ -109,9 +109,9 @@
 
 - **Cyris** — *the Marble Dominion* (law, codices, Oathkeepers)  
 - **Thalen** — *the Verdant Confluence* (spirit-saturated isles, naming)  
-- **Virek** — *the Brass Ascendancy* (runic-engineering, Arc-Foundry)  
+- **Virek** — *the Brass Ascendancy* (arc-engineering, Arc-Foundry)  
 - **Kallum** — *the Saltbound Expanse* (sea-ledgers, tide bargains)  
-- **Eirn** — *the Frostbound Oathlands* (endurance-runic clans)  
+- **Eirn** — *the Frostbound Oathlands* (endurance-sigil clans)  
 - **Sahru** — *the Sunken Wastes* (Black Sands, warn against ascension)  
 - **Alkyr** — *the Starward Climb* (altitudinal pilgrimages, aspect-witness cults)  
 - **Mirel** — *the Shrouded Coast* (mist, memory-echoes)  
@@ -178,28 +178,28 @@ Sources of magic and their signature costs/visuals:
 ## Major Institutions (with motives & internal factions)
 
 1. **Codex Courts (Cyris)**  
-   - *Motive:* social stability via ledger-security; prevent node collapse.  
-   - *Internal:* Moderates (oversight & reform) vs Hardliners (enforce lockdowns).
+   - *Motive:* Containment of Shard radiation; prevent the Great Filter from engaging.  
+   - *Internal:* Moderates (containment & safety) vs Hardliners (total lockdown of all arcane activity).
 
 2. **Verdant Cirri (Thalen)**  
-   - *Motive:* steward land-memory; partnership with place.  
-   - *Internal:* Elders (conservation) vs Youngers (naming innovation).
+   - *Motive:* Mitigation of Name-Bleed via ecological symbiosis.  
+   - *Internal:* Elders (traditional containment) vs Youngers (symbiotic mutation).
 
 3. **Arc-Foundry (Virek)**  
-   - *Motive:* technological progress & economy.  
-   - *Internal:* Engineers (improve safety) vs Profiters (weaponize/monetize).
+   - *Motive:* Synthesis of Shard energy for industrial power.  
+   - *Internal:* Engineers (focus-shielding research) vs Profiters (weaponization of raw code).
 
 4. **Tide-Ledger Houses (Kallum)**  
-   - *Motive:* control sea memory commerce.  
-   - *Internal:* Conservators (guard ledgers) vs Smugglers (black market).
+   - *Motive:* Control of "Arcane Fallout" in sea lanes.  
+   - *Internal:* Conservators (guarding fallout-records) vs Smugglers (trafficking Shard residue).
 
 5. **Archivum Noctis**  
-   - *Motive:* preserve truth, prevent erasure; mixed ethics.  
-   - *Internal:* Preservationists vs Liberators.
+   - *Motive:* Documentation of the world before the "Blank Slate" occurs.  
+   - *Internal:* Preservationists (archiving memories) vs Liberators (seeking a cure for Name-Bleed).
 
 6. **White Hand (cult)**  
-   - *Motive:* mortal agency over divine systems; use left-hand rites.  
-   - *Internal:* Idealists vs Fanatics (dangerous ascensionists).
+   - *Motive:* Ritualistic mutation; becoming one with the Shard energy.  
+   - *Internal:* Idealists (ascension seekers) vs Fanatics (those who force Name-Bleed on others).
 
 **Narrative dynamics:** Alliances and betrayals among these groups create political urgency; all have human, sympathetic motives.
 
@@ -209,37 +209,37 @@ Sources of magic and their signature costs/visuals:
 
 *(Use these one-page profiles as chapter-openers to ground scenes.)*
 
-## Cyris — *Marble Dominion* (law & ledger)
-- **Imagery:** white terraces and stone steps, public ledgers carved into courtyard walls.  
-- **Daily life:** oath recitations in the morning; magistrates read small petitions; children learn inked thumb marks.  
-- **Food & smell:** salt-baked bread, cured fish; dust of crushed chalk.  
-- **Rituals:** Door-oath (daily thumbprint on threshold).  
-- **Great fear:** a node collapse that erases public contracts.  
-- **Festival:** Day of Ledger — families renew obligations publicly.
+## Cyris — *Marble Dominion* (Containment & Law)
+- **Imagery:** white terraces and stone steps, geometric containment seals carved into courtyard walls.  
+- **Daily life:** Silence Zone patrols in the morning; magistrates inspecting focus-shields; children learn the "Safe-Code" hand signs.  
+- **Food & smell:** salt-baked bread, cured fish; ozone and crushed chalk.  
+- **Rituals:** Seal-Check (daily verification of home dampening fields).  
+- **Great fear:** a breach in the containment vault that triggers Name-Bleed.  
+- **Festival:** Day of Shielding — families reinforce their protective sigils publicly.
 
-## Thalen — *Verdant Confluence* (spirit partnership)
-- **Imagery:** tree-cities, living bridges grown over ruins.  
-- **Daily life:** song exchanges at dawn; crafts grown rather than made.  
-- **Food & smell:** sapbread, fermented roots; earthy hum.  
-- **Rituals:** Naming into trees (voice sewn into rings).  
-- **Great fear:** a grove rejecting its names.  
-- **Festival:** Root-Call — groves sing across islands.
+## Thalen — *Verdant Confluence* (Symbiosis & Root)
+- **Imagery:** tree-cities, living bridges grown over Shard-residue nodes.  
+- **Daily life:** monitoring Name-Bleed in the forests; crafts grown to filter arcane fallout.  
+- **Food & smell:** sapbread, fermented roots; earthy, metallic hum.  
+- **Rituals:** Root-Grafting (planting trees to absorb radiation).  
+- **Great fear:** the grove succumbing to Shard-Hunger.  
+- **Festival:** Bloom-Shield — community prayers for stable biology.
 
-## Virek — *Brass Ascendancy* (machine & patent)
-- **Imagery:** towers of brass, steam-smoke, conveyor bridges.  
-- **Daily life:** clockwork shift rhythm; runic patent queues; markets buzzing with prototypes.  
-- **Food & smell:** oily stews, metal-sweet solder.  
-- **Rituals:** Patent-signing runes; engineers invoke runic credits.  
-- **Great fear:** recall of runic devices causing economic collapse.  
-- **Festival:** Spring Patent Fair — demonstrations and thefts.
+## Virek — *Brass Ascendancy* (Synthesis & Power)
+- **Imagery:** towers of brass, steam-smoke, conveyor bridges humming with artificial energy.  
+- **Daily life:** clockwork shift rhythm; arc-patent queues; markets buzzing with synthesized Shard-tech.  
+- **Food & smell:** oily stews, metal-sweet solder; ozone.  
+- **Rituals:** Shield-Testing; engineers invoke arc-credits.  
+- **Great fear:** a reactor meltdown causing mass cognitive erosion.  
+- **Festival:** The Great Ignition — demonstration of new synthesis tech.
 
-## Kallum — *Saltbound Expanse* (sea memory economy)
-- **Imagery:** resonance-bone docks, tide-marked markets.  
-- **Daily life:** tide-timed trade; ledger-writers at piers.  
-- **Food & smell:** smoked fish and brine; bone-polished wood.  
-- **Rituals:** Bone-offering to tide for safe passage.  
-- **Great fear:** Return of the Mist stealing sailors’ names.  
-- **Festival:** Return-Tide Night — bone lantern offerings.
+## Kallum — *Saltbound Expanse* (Shard-Hunger & Scavenging)
+- **Imagery:** lead-lined docks, tide-marked fallout zones.  
+- **Daily life:** tide-timed scavenging for Shard residue; fallout-trackers at piers.  
+- **Food & smell:** smoked fish and brine; bone-polished wood and the reedy hum of Name-Bleed.  
+- **Rituals:** Ash-scattering to "ground" the mind before sea travel.  
+- **Great fear:** a Shard-Storm rising from the deep.  
+- **Festival:** The Grounding — night of communal silence to reset neural pathways.
 
 ## Eirn — *Frostbound Oathlands* (endurance & pacts)
 - **Imagery:** glacial halls, etched stone oaths.  
@@ -287,7 +287,7 @@ Sources of magic and their signature costs/visuals:
 - **Food & smell:** spiced stews; dust.  
 - **Rituals:** Caravan-lit pledges for safe routes.  
 - **Great fear:** node ruptures that sever trade.  
-- **Festival:** Cross-Trade week — merchants exchange tales & runes.
+- **Festival:** Cross-Trade week — merchants exchange tales & sigils.
 
 ---
 
@@ -304,12 +304,12 @@ Sources of magic and their signature costs/visuals:
 - **Function:** holds official oaths; violations leak dissonance.
 
 ### Mercury-Keel Engine (Virek prototype)
-- **Appearance:** runic boiler with temporal conduits.  
+- **Appearance:** arc-boiler with temporal conduits.  
 - **Function:** prototype to shift node-phase; causes Fracture.
 
-### Salt-Verse (Kallum resonance-bone)
-- **Appearance:** carved bone strips bound in seaweed.  
-- **Function:** records voyages and names; can restore a name at high cost.
+### Resonance-Strips (Kallum resonance-bone)
+- **Appearance:** carved bone strips etched with frequency-dampening sigils.  
+- **Function:** tracks Name-Bleed progression; used to "ground" a person's identity against Shard-radiation.
 
 ### Star-Shard (Alkyr)
 - **Appearance:** glass-like fragment that hums against the Meridian.  
@@ -353,7 +353,7 @@ Sources of magic and their signature costs/visuals:
 
 ## The Hollow Chronicle (excerpt / full)
 
-> The Hollow was never the shrine of a single Aspect. The altar sits upon a triune helix of runes that, when whole, would have permitted careful bridging among Cyclewright and Binder currents. The Book that floats there was created by an anonymous archivist who sought synthesis: a manual to reconcile law with living memory and with the mechanical schematics of inventors. They stitched methods together and then wrote a final line across the binding: *“We stitched what we could not pay for.”* When the Fracture’s Lock tripped, the Book became quarantine-chamber and key. It holds patterns both to re-tune a node and to burn it clean. How that can be both cure and contagion is the core caution written into the Hollow’s architecture.
+> The Hollow was never the shrine of a single Aspect. The altar sits upon a triune helix of glyphs that, when whole, would have permitted careful bridging among Cyclewright and Binder currents. The Book that floats there was created by an anonymous archivist who sought synthesis: a manual to reconcile law with living memory and with the mechanical schematics of inventors. They stitched methods together and then wrote a final line across the binding: *“We stitched what we could not pay for.”* When the Fracture’s Lock tripped, the Book became quarantine-chamber and key. It holds patterns both to re-tune a node and to burn it clean. How that can be both cure and contagion is the core caution written into the Hollow’s architecture.
 >
 > — *Archivum Noctis fragment; Hollow Field Notes*
 
