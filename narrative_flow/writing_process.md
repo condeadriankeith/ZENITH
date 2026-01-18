@@ -3,7 +3,7 @@
 ## Pre-Writing Phase
 
 ### 1. Research and Preparation
-- **Review Canon:** Read the [Shattered Meridian Compendium](../compendium/shattered_meridian_compendium.md) to ensure consistency
+- **Review Canon:** Read the [ZENITH Compendium](../compendium/zenith_compendium.md) to ensure consistency
 - **Check Planning Docs:** Consult the [Narrative Master](narrative_master.md), [Character Arcs](character_arcs.md), and [Theme Map](theme_map.md)
 - **Verify Requirements:** Confirm canonical phrases, place names, and character constraints
 - **Review Previous Work:** Look at recent scenes for continuity

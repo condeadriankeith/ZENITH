@@ -1,6 +1,8 @@
-# Shattered Meridian: The Age of Inheritance
-
-**Title:** Shattered Meridian: The Age of Inheritance
+Title: ZENITH 
+ 
+ Subtitle: The Age of Inheritance 
+ 
+ Logline: "To save the world below, he must burn the world above." 
 **Dedication:** For those who carry the weight of worlds they did not build.
 
 **Blurb:**

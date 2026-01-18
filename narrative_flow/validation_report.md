@@ -1,6 +1,6 @@
 # Validation Report: Cosmic Lore Update (Jan 15, 2026)
 
-This report confirms the status of the "Shattered Meridian" lore overhaul and validates that all canonical constraints have been met.
+This report confirms the status of the "ZENITH" lore overhaul and validates that all canonical constraints have been met.
 
 ## 1. Forbidden Term Scan
 **Target Terms:** `runeterra|ryze|ionia|bard|thresh|taliyah|ekko|ornn|kindred|runic`
@@ -26,7 +26,7 @@ The following non-negotiable strings were verified verbatim in the codebase:
 | ✅ | "Mortals should not meddle with the power of the Gods." | `codex/edict_of_names.md`, `compendium.md`, `scenes/00_prologue_draft.md` |
 | ✅ | THE THREE LAWS OF ASCENSION (Plaque Text) | `systems/ascension_laws_plaque.md`, `compendium.md` |
 | ✅ | The Fracture (907 R) Paragraph | `lore/lore_entries/01_fracture.md`, `compendium.md` |
-| ✅ | Name-Bleed Sensory Paragraph | `compendium/shattered_meridian_compendium.md` (Line 449) |
+| ✅ | Name-Bleed Sensory Paragraph | `compendium/zenith_compendium.md` (Line 449) |
 | ✅ | Traveler Internal Name: Maer | `characters/traveler.md`, `traveler_archive/traveler_journal_fragments.md` |
 | ✅ | Prologue Personalization Paragraph | `scenes/00_prologue_draft.md` |
 
@@ -47,4 +47,4 @@ The following non-negotiable strings were verified verbatim in the codebase:
 ## 5. Final Assessment
 **Status:** 🟢 **PASS**
 
-The project is now fully aligned with the "Shattered Meridian" cosmic lore framework. All forbidden terms have been removed, and all canonical requirements are preserved.
+The project is now fully aligned with the "ZENITH" cosmic lore framework. All forbidden terms have been removed, and all canonical requirements are preserved.

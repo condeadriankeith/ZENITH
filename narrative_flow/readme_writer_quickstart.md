@@ -1,18 +1,18 @@
-# Writer Quickstart — The Shattered Meridian
+# Writer Quickstart — ZENITH Project
 
 ## Welcome, Author
-This package transforms worldbuilding into a disciplined, cinematic writing pipeline. Follow these steps to begin writing *The Shattered Meridian*.
+This package transforms worldbuilding into a disciplined, cinematic writing pipeline. Follow these steps to begin writing *ZENITH*.
 
 ## 1. Pick Your Scene
 Open [scene_index.md](scene_index.md) and pick a Scene ID to start. We recommend starting with the **Prologue (S-001)**.
 
 ## 2. Use the Template
-1. Go to `shattered_meridian/narrative_flow/templates/`.
+1. Go to `ZENITH/narrative_flow/templates/`.
 2. Duplicate [scene_template.md](templates/scene_template.md).
 3. Name it according to the Scene ID (e.g., `S-001_prologue.md`).
 
 ## 3. Consult the Beat Sheet
-Open the corresponding beat sheet in `shattered_meridian/narrative_flow/beat_sheets/` (e.g., [00_prologue.md](beat_sheets/00_prologue.md)). This contains your goals, obstacles, and sensory cues.
+Open the corresponding beat sheet in `ZENITH/narrative_flow/beat_sheets/` (e.g., [00_prologue.md](beat_sheets/00_prologue.md)). This contains your goals, obstacles, and sensory cues.
 
 ## 4. Write with Canon
 While writing, ensure you:

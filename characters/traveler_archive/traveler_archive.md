@@ -1,4 +1,4 @@
-# Traveler Archive — *The Shattered Meridian*
+# Traveler Archive — *ZENITH*
 
 ## The Traveler
 - **Name:** [NONE]

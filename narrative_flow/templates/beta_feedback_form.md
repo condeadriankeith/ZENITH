@@ -1,7 +1,7 @@
-# Beta Feedback Form — The Shattered Meridian
+# Beta Feedback Form — ZENITH
 
 ## Reader Guidance
-Thank you for reading *The Shattered Meridian*. Please provide your honest feedback on the following areas.
+Thank you for reading *ZENITH*. Please provide your honest feedback on the following areas.
 
 ## Chapter/Section Feedback
 - **Resonance:** Did the emotional stakes of the Traveler's loss feel earned?

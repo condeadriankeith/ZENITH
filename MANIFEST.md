@@ -1,4 +1,4 @@
-# Shattered Meridian Manifest
+# ZENITH Manifest
 
 ## Repository Structure (Refactored)
 

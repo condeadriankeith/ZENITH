@@ -5,7 +5,7 @@
 ### Core Documentation
 - **[README.md](../README.md)** - Project overview and navigation guide
 - **[manifest.md](../manifest.md)** - File inventory and word counts
-- **[compendium/shattered_meridian_compendium.md](../compendium/shattered_meridian_compendium.md)** - Canonical source reference
+- **[compendium/zenith_compendium.md](../compendium/zenith_compendium.md)** - Canonical source reference
 
 ### Codex Assets
 - **[codex/codex_of_realms.md](../codex/codex_of_realms.md)** - Cosmology and world laws
@@ -71,7 +71,7 @@ These documents contain verbatim canonical text that must be preserved:
 - systems/ascension_laws_plaque.md
 - codex/codex_of_realms.md
 - lore/lore_entries/01_fracture.md
-- compendium/shattered_meridian_compendium.md
+- compendium/zenith_compendium.md
 
 ### Character-Defining Assets
 These documents establish character constraints that must be maintained:
@@ -102,7 +102,7 @@ These documents guide the creation and review process:
 
 ### Critical Path Assets
 These must be completed before other assets can be finalized:
-1. compendium/shattered_meridian_compendium.md (canonical source)
+1. compendium/zenith_compendium.md (canonical source)
 2. systems/ascension_laws_plaque.md (core rules)
 3. characters/traveler.md (character constraints)
 4. narrative_flow/narrative_master.md (story structure)

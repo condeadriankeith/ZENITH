@@ -1,4 +1,4 @@
-# Validation Report — *The Shattered Meridian*
+# Validation Report — *ZENITH* Project
 
 ## 1. Verbatim Text Verification
 - [x] **The Fracture (907 R)** paragraph appears in `codex/codex_of_realms.md`.

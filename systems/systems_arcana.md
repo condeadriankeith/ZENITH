@@ -1,4 +1,4 @@
-# Systems Arcana — *The Shattered Meridian*
+# Systems Arcana — *ZENITH*
 
 ## Magic Taxonomy
 

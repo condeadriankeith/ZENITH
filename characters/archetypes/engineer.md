@@ -14,9 +14,9 @@
 - **Technomancy:** Etching functional runes into brass and iron.
 - **Cost:** Material consumption; Engineers are always hunting for rare ores and node-residue.
 
-## Faction: Virek Engineers
-- **Motivation:** They view the World Shards as the ultimate power source. They believe the Celestials are "wasteful" with the world's energy and that humanity should take control of its own mechanics.
-- **Goal:** Capture Maer and "dissect" the Shards to fuel a new age of synthetic godhood.
+## Faction: Virek Engineers 
+ - **Motivation:** **EXTRACTION** (Use the Shards). They view the World Shards as the ultimate power source for their "God-Engines" and believe humanity should take control of its own cosmic mechanics. 
+ - **Goal:** Capture Maer and "dissect" the Shards to fuel a new age of industrial godhood. 
 
 ## Moral Contradictions
 - They claim to be men of science, yet they treat their machines with a superstitious reverence that rivals the Magistrates.

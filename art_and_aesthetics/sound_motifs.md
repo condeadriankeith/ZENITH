@@ -1,4 +1,4 @@
-# Sound Motifs — *The Shattered Meridian*
+# Sound Motifs — *ZENITH*
 
 ## Regional Motifs
 - **Cyris:** "High, clear bells and the scratching of styluses on marble. A background hum of rhythmic chanting (the Door-oaths)."

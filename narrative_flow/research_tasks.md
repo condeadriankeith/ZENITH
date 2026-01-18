@@ -4,7 +4,7 @@
 
 ### 1. Canonical Source Analysis
 - **Status:** Complete
-- **Source:** [Shattered Meridian Compendium](../compendium/shattered_meridian_compendium.md)
+- **Source:** [ZENITH Compendium](../compendium/zenith_compendium.md)
 - **Findings:** Identified all canonical phrases, character constraints, and world-building elements
 - **Deliverable:** Comprehensive canon reference document
 
@@ -120,7 +120,7 @@
 ## Research Methodology
 
 ### Primary Sources
-1. [Shattered Meridian Compendium](../compendium/shattered_meridian_compendium.md) - Canonical reference
+1. [ZENITH Compendium](../compendium/zenith_compendium.md) - Canonical reference
 2. [Codex Entries](../codex/) - In-world documents and lore
 3. [Lore Entries](../lore/) - Detailed background information
 4. [Character Bible](../characters/) - Character constraints and details

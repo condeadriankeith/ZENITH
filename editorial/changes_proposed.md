@@ -42,21 +42,21 @@ This document tracks any proposed changes to canonical elements, character const
 **Section Affected:** Multiple (Characters, Narrative Flow, Manifest)
 **Reason for Change:** Implement 25 production-ready character archetypes as per ULTIMATE TRAE PROMPT specifications.
 **Proposed Change:** 
-- Created 25 character archetype files in `shattered_meridian/characters/archetypes/`.
-- Updated `shattered_meridian/characters/characters_index.md` with new character data.
-- Created `shattered_meridian/characters/relationships.md` relationship matrix.
-- Created `shattered_meridian/narrative_flow/character_arcs_characters_added.md` for 3-act beats.
-- Updated `shattered_meridian/narrative_flow/manifest.md` to reflect new files.
+- Created 25 character archetype files in `ZENITH/characters/archetypes/`.
+- Updated `ZENITH/characters/characters_index.md` with new character data.
+- Created `ZENITH/characters/relationships.md` relationship matrix.
+- Created `ZENITH/narrative_flow/character_arcs_characters_added.md` for 3-act beats.
+- Updated `ZENITH/narrative_flow/manifest.md` to reflect new files.
 **Impact Assessment:** Significant - adds depth to the world and provides 25 unique perspectives on the Fracture and the Traveler's journey.
 **Status:** AUTOFIX
 **Approval:** N/A
 
 **Files Created/Updated:**
-- 25 files in `shattered_meridian/characters/archetypes/`
-- `shattered_meridian/characters/characters_index.md`
-- `shattered_meridian/characters/relationships.md`
-- `shattered_meridian/narrative_flow/character_arcs_characters_added.md`
-- `shattered_meridian/narrative_flow/manifest.md`
+- 25 files in `ZENITH/characters/archetypes/`
+- `ZENITH/characters/characters_index.md`
+- `ZENITH/characters/relationships.md`
+- `ZENITH/narrative_flow/character_arcs_characters_added.md`
+- `ZENITH/narrative_flow/manifest.md`
 
 ## Auto-Fix Records
 
@@ -115,15 +115,15 @@ When validation checks detect missing canonical elements and automatically inser
 **Approval:** N/A
 
 **Files Updated:**
-- shattered_meridian/narrative_flow/beat_sheets/01_chapter1.md: Created.
-- shattered_meridian/scenes/01_chapter1_draft.md: Created.
-- shattered_meridian/characters/traveler.md: Updated with Ch.1 details and signature prop.
-- shattered_meridian/narrative_flow/chapter_synopses.md: Updated Ch.1 synopsis.
-- shattered_meridian/narrative_flow/character_arcs.md: Updated with Ch.1 beats.
-- shattered_meridian/traveler_archive/traveler_journal_fragments.md: Added 5 new fragments.
-- shattered_meridian/narrative_flow/scene_index.md: Updated with Ch.1 entries.
-- shattered_meridian/narrative_flow/world_integration_map.md: Added Ch.1 integration points.
-- shattered_meridian/manifest.md: Updated word counts and file entries.
+- ZENITH/narrative_flow/beat_sheets/01_chapter1.md: Created.
+- ZENITH/scenes/01_chapter1_draft.md: Created.
+- ZENITH/characters/traveler.md: Updated with Ch.1 details and signature prop.
+- ZENITH/narrative_flow/chapter_synopses.md: Updated Ch.1 synopsis.
+- ZENITH/narrative_flow/character_arcs.md: Updated with Ch.1 beats.
+- ZENITH/traveler_archive/traveler_journal_fragments.md: Added 5 new fragments.
+- ZENITH/narrative_flow/scene_index.md: Updated with Ch.1 entries.
+- ZENITH/narrative_flow/world_integration_map.md: Added Ch.1 integration points.
+- ZENITH/manifest.md: Updated word counts and file entries.
 
 **Rationale:** To provide a coherent origin story for the Traveler that aligns with canonical constraints and establishes key narrative themes early.
 

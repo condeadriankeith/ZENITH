@@ -11,9 +11,9 @@ Sarn serves as a guide and scout. He provides the Traveler with the "Ash-Masks" 
 
 The soft, rhythmic *crunch* of his boots on the glass-sand and the low, muffled sound of his breathing through the bone-mask.
 
-## Faction: The White Hand (Zealots)
-- **Motivation:** Sarn believes the Shards are the cause of the Great Filter. He views Maer not as a savior, but as the harbinger of the end.
-- **Goal:** Ambush Maer in the wastes and shatter the Shards before they can be reunited.
+## Faction: The White Hand (Zealots) 
+ - **Motivation:** **EVOLUTION** (Become the Shards). They believe humanity must mutate and harden using Shard residue to survive the coming "Great Filter" (Celestial Reset). 
+ - **Goal:** Collect Shard residue for their "Ascension Rites" and eventually become cosmic entities themselves. 
 
 ## Moral Contradictions
 - He hates the Celestials but does their work by hunting the one man who could stop them.

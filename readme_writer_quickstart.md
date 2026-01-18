@@ -1,6 +1,6 @@
 # Writer Quickstart Guide
 
-Welcome to The Shattered Meridian writing project! This guide will help you begin writing officially.
+Welcome to the ZENITH writing project! This guide will help you begin writing officially.
 
 ## Getting Started
 
@@ -76,7 +76,7 @@ Ensure no single exposition paragraph > 400 words (heuristic). If the environmen
 - `narrative_flow/` - Story planning and structure
 
 ### Reference Materials
-- `compendium/shattered_meridian_compendium.md` - Canonical source reference
+- `compendium/zenith_compendium.md` - Canonical source reference
 - `narrative_flow/narrative_master.md` - Overall story structure
 - `characters/traveler.md` - Character constraints and details
 

@@ -1,4 +1,4 @@
-# Character Arcs — *The Shattered Meridian*
+# Character Arcs — *ZENITH*
 
 This document outlines the narrative arcs for the 25 character archetypes added to the Shattered Meridian, aligned with the novel's Three-Act structure.
 

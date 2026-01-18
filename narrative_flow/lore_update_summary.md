@@ -1,7 +1,7 @@
-# Lore Update Summary: Shattered Meridian Overhaul
+# Lore Update Summary: ZENITH Overhaul
 
 ## 1. Executive Summary
-This update implements a comprehensive "Cosmic Lore" layer to the *Shattered Meridian* worldbuilding. It transitions the project from a standard fantasy setting to a high-concept metaphysical world governed by the **Meridian Lattice**, the **Spirit Mirror**, and the **Great Filter**.
+This update implements a comprehensive "Cosmic Lore" layer to the *ZENITH* worldbuilding. It transitions the project from a standard fantasy setting to a high-concept metaphysical world governed by the **Meridian Lattice**, the **Spirit Mirror**, and the **Great Filter**.
 
 ## 2. Key Changes
 ### A. Metaphysics & Systems
@@ -26,6 +26,6 @@ This update implements a comprehensive "Cosmic Lore" layer to the *Shattered Mer
 - **Exposition Policy:** Ensured all new lore is presented via in-universe artifacts or concise framing.
 
 ## 4. Next Steps for Authors
-1. Review the [Prologue Patch Suggestions](file:///c:/Users/conde/Downloads/shatteredMeridian_novel_draft/shattered_meridian/editorial/prologue_patch_suggestions.md) to integrate new logic into Chapter 1.
-2. Use the [Annotated Prologue](file:///c:/Users/conde/Downloads/shatteredMeridian_novel_draft/shattered_meridian/scenes/00_prologue_lore_annotated.md) as a sensory guide for future scenes.
-3. Reference the [Systems Arcana](file:///c:/Users/conde/Downloads/shatteredMeridian_novel_draft/shattered_meridian/systems/systems_arcana.md) for SR thresholds when describing magic use.
+1. Review the [Prologue Patch Suggestions](file:///c:/Users/conde/Downloads/ZENITH/editorial/prologue_patch_suggestions.md) to integrate new logic into Chapter 1.
+2. Use the [Annotated Prologue](file:///c:/Users/conde/Downloads/ZENITH/scenes/00_prologue_lore_annotated.md) as a sensory guide for future scenes.
+3. Reference the [Systems Arcana](file:///c:/Users/conde/Downloads/ZENITH/systems/systems_arcana.md) for SR thresholds when describing magic use.

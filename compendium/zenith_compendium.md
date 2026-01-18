@@ -1,10 +1,10 @@
 
-# The Shattered Meridian — Complete Worldbuilding Compendium  
+# ZENITH — Complete Worldbuilding Compendium  
 *(Comprehensive, canonical reference — Markdown format)*
 
 ---
 
-**Filename suggestion:** `shattered_meridian_compendium.md`  
+**Filename suggestion:** `zenith_compendium.md`  
 **Use:** Paste into your project repo or open in an editor. This single document contains Atlas notes, Cosmology & Bible, Systems & Mechanics, Deep Lore, Regional Profiles, Institutions & Factions, Artifacts, Bestiary, Character Bible, Traveler Archive, exemplar in-world documents (codex entries, trial transcript), production notes, and storytelling hooks.
 
 ---
@@ -50,9 +50,9 @@
 
 # Executive Overview
 
-**Core premise (short):** A world once tuned by meta-agents called Architects is now bereft of direct divine governance after a catastrophic experiment triggers a planetary quarantine: The The Great Filter. Mortals are taught the refrain, *“Mortals should not meddle with the power of the Gods”* to prevent catastrophic meddling. The Traveler — nameless, left-handed, carrying a pack of forbidden knowledge and a personal debt — discovers he can break the social law and the mechanical locks. His moral choices will either heal, replace, or doom the world.
+**Core premise (short):** A world once tuned by meta-agents called Architects (Celestials) is now facing the "Long Descent." To prevent a catastrophic reset, a lowly archivist named Maer steals the *Codex of the First Breath* and the Azure Shard. As the **Vault-Keeper**, he must collect five Shards of reality and climb the Zenith to shatter the system and return magic to the world below, even if it costs him his humanity.
 
-**Tone:** epic, mythic, but intimate. Systems-minded magic with human consequences. Repeated prismatic imagery; left-hand motif; sensory Ruination (Name-Bleed).
+**Tone:** epic, mythic, but intimate. Systems-minded magic with human consequences. Repeated prismatic imagery; Shard-Resonance motif; sensory Ruination (Name-Bleed).
 
 ---
 
@@ -60,29 +60,21 @@
 
 ## The Mortal Face & The Meridian Veil
 
-- **Mortal Face**: The observable world — land, sea, cities, living beings. Politics and desires play out here.  
-- **Meridian Veil**: An interleaved metaphysical strata of memory, pattern, and procedural law. It records and regulates recurring processes: seasons, oaths, rites, mechanisms of ascension. Ley-veins are concentrated flows of compressed Meridian; nodes are local concentrations (like servers in a network).
+- **Mortal Face**: The observable world — land, sea, cities, living beings.
+- **Meridian Veil**: The metaphysical strata regulated by the Celestials.
+- **The Great Filter / Val-Kora**: The primary antagonist. Val-Kora is a Celestial who enforces the "Edict of Names" and the quarantine of the world.
 
-**Key idea:** The Veil is not spiritual fluff — it is procedural: it enforces and records. Tampering with it has technical consequences.
+## The Shards of Inheritance
 
-## Architects (Aspects)
+The world's power is concentrated into five Shards, each representing a fundamental aspect of reality:
 
-- Architects are meta-agents — patterns that maintained cycles: growth, law, invention, memory, and endings. They were sometimes visible in culture as "gods," but they are better thought of as *systemic managers* rather than moral beings.
+1. **Azure Shard (Mind):** Located in the Virek God-Engine. Grants intelligence but causes insomnia and erasure of common nouns.
+2. **Veridian Shard (Life):** Located in the Deep Weald. Grants healing but causes loss of the memory of pain and recklessness.
+3. **Crimson Shard (Body):** Located in the Ashlands. Grants physical strength but causes loss of empathy and personal memories.
+4. **Violet Shard (Entropy):** Located in The Hollow. Grants power over decay but turns the holder "Hollow."
+5. **Gold Shard (Law):** Located in Cyris. Allows rewriting of reality.
 
-**Common Aspects (conceptual; not anthropomorphic):**
-- **Cyclewright** — seasons, growth, harvest accounting.  
-- **Binder** — law, oaths, ritual contracts.  
-- **Forger** — invention, transformation, ordered change.  
-- **Deep-Mother** — sea memory, mourning, names.  
-- **Shroud** — endings, concealment, sleep.
-
-## The The Great Filter (Primary Antagonist)
-
-- **Definition:** A semi-sentient, distributed defense network composed of activated Meridian Locks and residual Architect-logic. It responds to breaches in the Meridian’s integrity with corrective penalties: node sealing, memory famine, revenant conversion, or local reality slippage.
-
-- **Goals:** Preserve the structural coherence of the Meridian Veil at any cost. It acts without malice but with rigid purpose. Because it enforces preservation, it actively opposes mortal meddling that threatens long-term stability.
-
-- **Narrative function:** The Great Filter gives a visible, reactive force to oppose or test the Traveler’s actions.
+---
 
 ## The Vanishing & The Fracture
 
@@ -372,81 +364,69 @@ Sources of magic and their signature costs/visuals:
 
 ---
 
-# Traveler — Character Bible & Archive
+# Maer — Character Bible & Archive
+*(See [maer.md](file:///c%3A/Users/conde/Downloads/ZENITH/characters/maer.md) for full profile)*
 
 ## Overview
 
-- **Name:** none (nameless by design) — referred to as *The Traveler*, *he*, *left-handed one*.  
-- **Left-hand motif:** always begins true bindings and inversion rites with left hand. Marked by a faint scar on left wrist from earlier bargains.  
-- **Appearance:** travel-stained coat, pack bulging with codices and world-fragments, no staff. Veins under skin faintly prismatic when he channels. White-void eyes in moments of extreme ascension.  
-- **Signature power:** composite, prismatic arcana that reads like oil-on-water and re-patterns local Meridian flow. He can combine techniques learned across regions.
+- **Name:** Maer.
+- **Title:** The Vault-Keeper.
+- **Role:** Former Archivist who stole the seeds of the world's rebirth.
+- **Burden:** Cumulative Name-Bleed from the five Shards.
 
-## Emotional Anchors (grounds of his motives)
+## The Shards & Their Costs
 
-1. **Mother’s Name (traded):** to open a node for a dying valley, he traded his mother’s true name. He can hum the lullaby but cannot recall the last verse. Loss haunts him.  
-2. **Failed Rescue (plague child):** early exile attempt to staunch a plague lost a child’s memory. He still dreams the child’s blank eyes.  
-3. **Archivist Mentor (lost):** one archivist who once gave him a clue to the Hollow disappeared under pressure. He promised to finish their work.
+As the Vault-Keeper, Maer's body and mind are the containment vessels for the Shards. Each Shard grants immense power but exacts a devastating toll.
 
-## Abilities & Limits
+- **Azure Shard (Mind):** 
+  - *Power:* Intelligence spike, pattern recognition.
+  - *Cost:* Insomnia, erasure of common nouns.
+- **Veridian Shard (Life):**
+  - *Power:* Rapid healing, organic growth control.
+  - *Cost:* Green veins, loss of memory of pain (recklessness).
+- **Crimson Shard (Body):**
+  - *Power:* Physical strength, armor-skin.
+  - *Cost:* Loss of empathy, erasure of loved ones' memories.
+- **Violet Shard (Entropy):**
+  - *Power:* Control over decay and gravity.
+  - *Cost:* Becoming "Hollow"—cold and detached.
+- **Gold Shard (Law):**
+  - *Power:* Rewriting reality, projecting truth.
+  - *Cost:* Burning of all remaining personal identity.
 
-- **Abilities:** left-hand composite casting, pattern-weaving, node-tuning (small scale), forbidden script reading.  
-- **Limits:** Ascension laws bite him: memory loss, node entropy increases, and political targeting. He cannot fix every damage; every healing demands a cost.
+---
 
-## Archive — Sample Journal Fragments
+# Narrative Structure: ZENITH
 
-> *Left wrist — scar. Gave the name 'Maer' to the anchor so the valley could breathe. The lullaby had left my mouth like a coin into the sea; every time I think of it, a part of me aches with the size of that debt. I think of the child whose laughter I could not save.*  
->
-> *Found a weathered slip in the archivist's hand—‘Hollow Seal: pair a star-shard with three ledger bones.’ The handwriting trembled. They were frightened of something. I promised. I never kept some promises.*
+## 24-Chapter Structure (The Official Master)
+
+**PART I: THE SILENCE OF THE ARCHIVES (Chapters 1–6)**
+*Focus:* Discovery, the theft of the Codex, and the acquisition of the Azure Shard in Virek.
+
+**PART II: THE WEIGHT OF THE WILD (Chapters 7–12)**
+*Focus:* The Overgrowth, the hunt for the Beast of Root, and the acquisition of the Veridian Shard.
+
+**PART III: THE CULT OF BLOOD (Chapters 13–18)**
+*Focus:* The Ashlands, the White Hand prison, and the acquisition of the Crimson Shard.
+
+**PART IV: THE ASCENSION (Chapters 19–24)**
+*Focus:* The Void, the acquisition of the Violet and Gold Shards, and the final climb of the Zenith.
 
 ---
 
 # Rules for Presentation & Editorial Guidance
 
-- **No lore dumps:** Always show through micro-artifacts (ledger excerpt, tavern rhyme, trial transcript) or action. Use codices sparingly and as in-world objects.
-- **Three immutable plot rules to obey:** Ascension Laws, Meridian Lock mechanics, Great Filter agency. Never contradict them casually.
-- **Rhythms:** Alternate grand, cinematic sequences (node events, prologue) with intimate, human scenes (mother/lullaby, trial transcripts).
-- **Motif reuse:** Use prismatic / oil-on-water imagery for arcane intensity; use left-hand motifs for taboo rituals.
-
----
-
-# Narrative Hooks, Plotlines & Endings
-
-## Core long-arc options (choose one as primary if writing the novel)
-
-1. **Restoration Ending (hopeful):** Traveler reweaves a covenant, stabilizes nodes through careful bargains, reforms institutions. Phrase reinterpreted: *“Do not meddle recklessly; steward with care.”*
-
-2. **Replacement Ending (ambiguous):** Traveler ascends (partly or wholly) and becomes an Architect-like presence; world is remade with his priorities. The proverb stands, tragically true.
-
-3. **Catastrophic Confirmation (bleak):** Traveler’s meddling triggers Ruination; many towns lose names; mortality’s arrogance becomes the lesson.
-
-## Secondary plots & hooks
-
-- **Paulownia Accords:** attempt to reopen Treaty-as-political drama.  
-- **White Hand ascendancy:** cult grows, rhetorical appeal to the forgotten.  
-- **Archivum auctions:** heist arc to retrieve a Star-Shard or resonance-bone.  
-- **Trial in Cyris:** public trial of a mother who healed with a left-hand rite; Traveler must choose to intervene or not.
+- **Show the Shard-Resonance:** Use sensory descriptions of the Shards' radiation (blue pulse, green veins, etc.).
+- **Name-Bleed as Pacing:** Use Maer's fading memories to show the escalating stakes and personal cost.
+- **Val-Kora's Presence:** The Great Filter is no longer a faceless system; it is enforced by the Celestial Val-Kora.
 
 ---
 
 # Appendices & Quick Reference Sheets
 
-## Meridian Lock — Quick Reference
+## Name-Bleed — Sensory Paragraph
 
-- **Activations:** entropy threshold, cross-node architect pattern, temporal engineering, manual covenant activation.  
-- **Effects:** Seal, Memory Famine, Revenant Conversion, Reality Slippage.  
-- **Limits:** Locks need anchors; some static; Hollow Seal is effectively permanent.  
-- **Tactical:** White Hand often provokes Locks to unsettle control; Codex Courts can sometimes use Locks politically.
-
-## Ascension Laws — Plaque Text (for in-world reading)
-
-> **THE THREE LAWS OF ASCENSION**  
-> 1. **Irrecoverable Cost** — An ascension consumes a fragment of the aspirant; it is lost forever.  
-> 2. **Node Entropy** — Ascension leaves a permanent mark upon the node; repeated use risks quarantine.  
-> 3. **Political Targeting** — Unsanctioned Ascension invites enforcement; it cannot be completed in secret.
-
-## Name-Bleed — Sensory Paragraph (use for Ruination scenes)
-
-> In places afflicted by quarantine the air takes on a metallic tang, and wells hum a steady, reedy tone. Names leak like blood from a wound — at first a single proper name, then strange lapses: the bread’s name slips away, the map forgets the river. When a name dies in a town a small bell somewhere tolls once, low and threadbare. People look at one another and find their mouths empty of memory.
+> In places afflicted by Shard-Resonance, the air takes on a metallic tang. Names leak like blood from a wound — at first a single proper name, then strange lapses: the bread’s name slips away, the map forgets the river. For Maer, the Name-Bleed is the sound of his own humanity being replaced by the cold logic of the Shards.
 
 ---
 

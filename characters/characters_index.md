@@ -1,15 +1,20 @@
-# Characters Index — *The Shattered Meridian*
+# Characters Index — *ZENITH*
 
 ## Overview
 Characters in the Shattered Meridian are defined by their relationship to the Meridian Veil, their regional signatures, and their moral contradictions in a world of rigid laws and systemic decay.
 
 ## Major Archetypes
 
+### Celestials (Antagonists)
+| Character | Epithet | Primary Region | Signature Magic | First Appearance |
+| :--- | :--- | :--- | :--- | :--- |
+| Val-Kora | The Celestial | Zenith | Universal Law | Ch. 12 (Signal) |
+
 ### Magistrates (Cyris)
 | Character | Epithet | Primary Region | Signature Magic | First Appearance |
 | :--- | :--- | :--- | :--- | :--- |
-| [Oren Valis](archetypes/oren_valis.md) | The Marble Magistrate | Cyris | Covenant-Law | Ch. 4 |
-| [Mira Glass](archetypes/mira_glass.md) | The Prism-Witness | Cyris | Covenant-Law | Ch. 12 |
+| [Oren Valis](archetypes/oren_valis.md) | High Inquisitor | Cyris | Gold-Resonance | Ch. 21 |
+| [Mira Glass](archetypes/mira_glass.md) | Prism-Lens | Cyris | Light-Refraction | Ch. 2 |
 | [Sorra Veil](archetypes/sorra_veil.md) | The Memory-Thief | Cyris | Covenant-Law | Ch. 12 |
 
 ### Virek Engineers
@@ -56,7 +61,7 @@ Characters in the Shattered Meridian are defined by their relationship to the Me
 | **Ledger-Keeper**| Kallum | Tidal | Control and monetize sea memory. |
 | **Archivist** | Global | Memory | Preserve truth and prevent erasure. |
 | **Ascensionist** | Sahru / Nyth | Forbidden | Seek mortal agency over divine systems. |
-| [The Traveler](traveler.md) | N/A | Prismatic | Reclaim a lost name and fulfill a promise. |
+| [Maer](maer.md) | The Vault-Keeper | Cyris / Global | Prismatic Shards | Ch. 1 |
 
 ## Usage Notes
 - **Regional Dialects:** Use sensory-specific metaphors (e.g., "by the marble" in Cyris, "tide-willing" in Kallum).

@@ -1,4 +1,4 @@
-# Color Palettes — *The Shattered Meridian*
+# Color Palettes — *ZENITH*
 
 ## Regional Palettes
 

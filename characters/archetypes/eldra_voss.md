@@ -11,9 +11,9 @@ Eldra serves as an inventor and a source of technological support. She provides 
 
 The constant, rhythmic *hiss-clank* of the steam-engines and the bright, bird-like whistle she uses to signal her presence.
 
-## Faction: Virek Engineers
-- **Motivation:** Eldra believes the Shards are the key to "Ascension without Cost." She views Maer as a vessel that must be emptied to fill the Great Foundry.
-- **Goal:** Lure Maer into a trap using a synthetic Shard-echo.
+## Faction: Virek Engineers 
+ - **Motivation:** **EXTRACTION** (Use the Shards). They view the World Shards as the ultimate power source for their "God-Engines" and believe humanity should take control of its own cosmic mechanics. 
+ - **Goal:** Capture Maer and "dissect" the Shards to fuel a new age of industrial godhood. 
 
 ## Moral Contradictions
 - She is a "Steam-Prophet" who preaches a future of light, but her path is paved with the "entropy-ash" of the Sprawl.

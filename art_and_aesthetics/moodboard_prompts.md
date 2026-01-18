@@ -1,4 +1,4 @@
-# Moodboard Prompts — *The Shattered Meridian*
+# Moodboard Prompts — *ZENITH*
 
 ## Environment Prompts
 - **Cyris:** "A city of white marble terraces under a harsh, clinical sun. Public ledgers are carved into the walls. The air is dry and smells of crushed chalk. Every threshold has an inked thumbprint."

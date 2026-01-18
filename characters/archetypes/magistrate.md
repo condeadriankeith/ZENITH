@@ -14,9 +14,9 @@
 - **Covenant Magic:** Creating white fissure lines that physically bind two parties to an agreement.
 - **Cost:** Magistrates often lose the ability to dream of anything other than law and order.
 
-## Faction: The Magistrates
-- **Motivation:** They worship the Celestials as the ultimate arbiters of order. They enforce the **Law of Silence** with religious fervor, believing that any mortal who speaks a True Name or touches a World Shard is a threat to the world's stability.
-- **Goal:** Capture the "Keeper of the Vault" (Maer) and return the Shards to the Star-Altar at the Zenith.
+## Faction: The Magistrates 
+ - **Motivation:** **CONTAINMENT** (Hide the Shards). They believe that by keeping the Shards dormant and hidden, they can prevent the Great Filter from triggering. They enforce the **Law of Silence** to ensure no mortal touches a World Shard. 
+ - **Goal:** Capture the "Keeper of the Vault" (Maer) and ensure the Shards are never reunited. 
 
 ## Moral Contradictions
 - They claim to serve the world's stability, yet they are willing to "prune" entire bloodlines to maintain the Law of Silence.

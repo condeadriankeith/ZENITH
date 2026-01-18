@@ -1,4 +1,4 @@
-# Character Relationships — *The Shattered Meridian*
+# Character Relationships — *ZENITH*
 
 This document maps the primary relationships between the characters of the Shattered Meridian, categorized by their alignment, nature, and the strength of their connection.
 

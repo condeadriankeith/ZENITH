@@ -1,4 +1,4 @@
-# Changelog — *The Shattered Meridian*
+# Changelog — *ZENITH*
 
 ## [2026-01-14]
 ### Added
