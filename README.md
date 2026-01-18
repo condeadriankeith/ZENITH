@@ -1,6 +1,8 @@
-# The Shattered Meridian
+# ZENITH
 
-An epic fantasy worldbuilding compendium featuring systems-minded magic with human consequences. The world once tuned by meta-agents called Architects is now bereft of direct divine governance after a catastrophic experiment triggered a planetary quarantine: The The Great Filter.
+A high-fantasy arcanepunk tragedy about a librarian who becomes the living vault of the Gods.
+
+**Status:** In Development (Phase: Fundamentals Complete).
 
 ## Core Premise
 Mortals are taught the refrain, *"Mortals should not meddle with the power of the Gods"* to prevent catastrophic meddling. The Traveler — nameless, left-handed, carrying a pack of forbidden knowledge and a personal debt — discovers he can break the social law and the mechanical locks. His moral choices will either heal, replace, or doom the world.
@@ -21,4 +23,4 @@ This repository contains comprehensive worldbuilding materials organized into th
 - [Scene drafts](./scenes/) - Draft scenes and chapters
 
 ## Canon References
-All content derives from the canonical [Shattered Meridian Compendium](./compendium/shattered_meridian_compendium.md), which serves as the authoritative source for lore, names, rules, tone, and constraints.
+All content derives from the canonical [ZENITH Compendium](./compendium/zenith_compendium.md), which serves as the authoritative source for lore, names, rules, tone, and constraints.
