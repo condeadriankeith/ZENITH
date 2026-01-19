@@ -24,7 +24,7 @@ Maer leaned his forehead against the cold glass. The smell of the city drifted i
 
 He preferred the dust. The city was too clean, too bright, scrubbed of its history by the Magistrates until only a perpetual, shimmering present remained. In Cyris, the past was a liability, and the Grand Athenaeum was its prison.
 
-"Good morning, Harlen," Maer whispered, his voice a dry rasp. He was looking at a thick, leather-bound volume on his nightstand: *The Migration of the Silt-Strider*. It hadn't been requested by a reader in three centuries. "I hope the damp didn't settle in your spine last night."
+"Good morning, Book," Maer whispered, his voice a dry rasp. He was looking at a thick, leather-bound volume on his nightstand: *The Migration of the Silt-Strider*. It hadn't been requested by a reader in three centuries. "I hope the damp didn't settle in your spine last night."
 
 The book did not answer, but Maer felt the weight of its presence. He talked to the books because there was no one else. The other Archivists were shadows in the halls, cowed by the Law of Silence, their tongues clipped by the fear of saying the wrong name. In the Grand Athenaeum, curiosity was a slow-acting poison, and Maer had survived this long only because he had learned to direct his questions to the dead rather than the living.
 
