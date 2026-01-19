@@ -60,3 +60,14 @@
  * [ ] **Check the Atmosphere:** Does the region smell/feel like its Shard? (e.g., Virek = Ozone/Copper; Thalen = Sulfur/Blood). 
  * [ ] **Check the Threat:** Is the danger consistent? (Magistrates arrest you; White Hand eats you; Void erases you). 
  * [ ] **No Memory Trade:** Ensure characters are *not* trading memories for goods. 
+ 
+ ## Chapter 1 Integration Map (Zenith) 
+ ### Lore & Canonical Strings 
+ * **The Bleed:** Referenced as "Cognitive Erosion." Maer loses specific memories (e.g., his mother's face) to pay for magic. 
+ * **The Silence:** The oppressive acoustic monitoring of the Golden Sector. 
+ * **Resonance:** The physical heat/vibration emitted by Shard artifacts. 
+ 
+ ### Artifacts vs. Exposition 
+ * **The Codex of the First Breath:** A "Lock" containing the map to the Shards. 
+ * **The Lung-Filter:** A prop used to show Maer's empathy for the Rust Sprawl. 
+ * **Maer's Stylus:** A vibration-tool used as a makeshift weapon. 

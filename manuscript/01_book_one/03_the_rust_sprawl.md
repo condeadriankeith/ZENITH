@@ -1,15 +1,15 @@
+# Chapter 3: The Rust Sprawl
+
 **Estimated Word Count:** 5,500+ words
 **POV:** Maer
 **Location:** The Rust Sprawl (Virek)
 **Timeline:** The Present (The Night of the Fall)
 
-# Chapter 3: Culture Shock
-
 ### Scene 1: The Impact
 
 The descent was not a graceful one. 
 
-Maer had imagined a calculated climb, a strategic negotiation with the rusted skeleton of the city's underbelly. He had studied the blueprints of the outer vents for years, memorizing the layout of the maintenance catwalks and the tension-thresholds of the support struts. But theory was a brittle thing when faced with the reality of industrial decay. The catwalk beneath his boots didn't just bend; it groaned with a sound like a dying beast—a long, screeching lament of failing rivets and fatigued iron—and simply gave way. 
+Maer had imagined a calculated climb, a stratesgic negotiation with the rusted skeleton of the city's underbelly. He had studied the blueprints of the outer vents for years, memorizing the layout of the maintenance catwalks and the tension-thresholds of the support struts. But theory was a brittle thing when faced with the reality of industrial decay. The catwalk beneath his boots didn't just bend; it groaned with a sound like a dying beast—a long, screeching lament of failing rivets and fatigued iron—and simply gave way. 
 
 He had one heart-stopping second of weightlessness, the bruised purple sky of Virek spinning above him, a kaleidoscope of toxic violet and charcoal grey, before the world became a chaotic collision of metal and gravity.
 
