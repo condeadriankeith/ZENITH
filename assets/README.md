@@ -1,0 +1,1 @@
+Folder for maps, images, and reference art.

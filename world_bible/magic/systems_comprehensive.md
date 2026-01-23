@@ -1,4 +1,4 @@
-# Systems Arcana — *ZENITH*
+# Comprehensive Magic Systems
 
 ## Magic Taxonomy
 
@@ -129,9 +129,3 @@ Step 3: Great Filter Check
 - Local Entropy is now 0.33. Below trigger.
 - Result: The Shaper survives, but with two fewer "Definitions" in their soul.
 ```
-
-## The Three Laws of Ascension
-> **THE THREE LAWS OF ASCENSION**  
-> 1. **Irrecoverable Cost** — An ascension consumes a fragment of the aspirant; it is lost forever.  
-> 2. **Node Entropy** — Ascension leaves a permanent mark upon the node; repeated use risks quarantine.  
-> 3. **Political Targeting** — Unsanctioned Ascension invites enforcement; it cannot be completed in secret.
