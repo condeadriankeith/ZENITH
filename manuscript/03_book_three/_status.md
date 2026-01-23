@@ -1,1 +1,3 @@
-Planned. Not started.
+Status: Planned
+
+Future content placeholder for Book Three.

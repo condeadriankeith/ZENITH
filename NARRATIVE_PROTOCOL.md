@@ -1,7 +1,7 @@
 # ZENITH NARRATIVE PROTOCOL v2.0
 
 ## SOURCE OF TRUTH
-**The `world_bible/` directory is the ONLY Source of Truth for Lore, History, and Geography. Do not read from deleted folders.**
+**The `world_bible/` directory is the ONLY Source of Truth for Lore, History, and Geography. Do not look for lore in root folders. All canonical information has been migrated to world_bible/.**
 
 ## 0. PRE-FLIGHT CHECK (Mandatory)
 Before writing, the AI MUST scan:

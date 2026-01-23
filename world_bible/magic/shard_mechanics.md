@@ -33,3 +33,9 @@ Touching a Shard directly or channeling energy without a focus—as the traveler
 - **Corruption:** Causes immediate, high-level corruption. A single act of Raw Casting can burn away years of a person's life and identity in seconds.
 
 To hold a Shard is to hold the power of creation, but the price is the slow, inevitable loss of everything that makes you human.
+
+## Additional Radiation Mechanics
+
+**Rule:** Magic generates heat.
+**Rule:** Magic causes "The Bleed" (Memory Loss).
+**Rule:** Gold = Law/Stasis. Azure = Mind/Logic. Crimson = Body/Flesh.
