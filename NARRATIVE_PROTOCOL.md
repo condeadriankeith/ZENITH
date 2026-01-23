@@ -1,19 +1,22 @@
-# ZENITH NARRATIVE PROTOCOL v2.0
+# ZENITH NARRATIVE PROTOCOL v3.0 (Clean Architecture)
 
-## SOURCE OF TRUTH
-**The `world_bible/` directory is the ONLY Source of Truth for Lore, History, and Geography. Do not look for lore in root folders. All canonical information has been migrated to world_bible/.**
+## 1. THE SINGLE SOURCE OF TRUTH
+**CRITICAL:** The AI is FORBIDDEN from reading generic root folders.
+* **Lore/Magic/History:** ALWAYS read `world_bible/`.
+* **Characters:** ALWAYS read `characters/`.
+* **Plot:** ALWAYS read `narrative_flow/`.
 
-## 0. PRE-FLIGHT CHECK (Mandatory)
-Before writing, the AI MUST scan:
-1. `narrative_flow/timeline.md` (Time of day/Health status)
-2. `inventory/maer_inventory.md` (What items does he have?)
-3. `world_bible/geography/[current_region].md` (Sensory rules)
+## 2. PRE-WRITING CHECKLIST
+Before generating text, you must scan:
+1.  **Timeline:** `narrative_flow/timeline.md` (Check Day/Health).
+2.  **Location:** `world_bible/geography/[Specific_Region].md` (Check Sensory details).
+3.  **Inventory:** `inventory/maer_gear.md` (Check Items).
 
-## 1. TERMINOLOGY FIREWALL
-* **BANNED:** Resonance-Stylus, Glass-Cane, Shard-Bulb, God-Engine, Name-Bleed.
-* **REQUIRED:** Stylus, Cane, Lamp, Engine, The Bleed.
+## 3. TERMINOLOGY ENFORCEMENT
+* **BANNED:** God-Engine, Shard-Bulb, Name-Bleed, Spirit Mirror.
+* **REQUIRED:** Engine, Lamp, The Bleed, Shard.
 
-## 2. VOICE MATRIX
-* **Maer:** Weary, intellectual, precise. (Logic).
-* **Eldra:** Aggressive, technical, fast. (Chaos).
-* **Mira:** Clinical, cold. (Order).
+## 4. VOICE MATRIX
+* **Maer:** Precise, intellectual, weary.
+* **Eldra:** Fast, technical, aggressive.
+* **Oren Valis:** Melodic, perfect, terrifyingly calm.
